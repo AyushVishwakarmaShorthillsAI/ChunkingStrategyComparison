@@ -1,0 +1,36 @@
+{
+    "query": "What does Table 1 report about the prevalence of macrocephaly in patients with KPTN syndrome?",
+    "chunks": [
+        {
+            "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.9382286071777344
+        },
+        {
+            "content": "**1. Table Title/Caption:**\nThe table is titled \"TABLE 1 Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\" **2. Table Purpose:**\nThis table presents a comprehensive comparative analysis of demographic information, anthropometric measurements, and neurodevelopmental phenotypes, including epilepsy characteristics, for five newly identified patients with *KPTN* gene-related syndrome. It also aggregates and compares these findings with data from 15 previously reported patients in existing literature to provide broader context and identify common patterns. **3. Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\"",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.8017407655715942
+        },
+        {
+            "content": "However, macrocephaly was not present in at least one patient. In total, two patients exhibited developmental and epileptic encephalopathies with generalized tonic-clonic seizures that were drug-resistant in one of them. Thus, we further delineate the KPTN -related syndrome, especially emphasizing the severity of epilepsy phenotypes and difficulties in treatment in patients of our cohort. KPTN gene, macrocephaly, neurodevelopment delay, epilepsy, splice site variant",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.725308358669281
+        },
+        {
+            "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. Only about 15 affected individuals have been described in the literature, all with primary or secondary macrocephaly. Using exome sequencing, we identified three different biallelic variants in KPTN in five affected individuals from three unrelated families. In total, two KPTN variants were already reported as a loss of function variants. A novel splice site variant in KPTN was detected in two unrelated families of this study. The core phenotype with neurodevelopment delay was present in all patients. However, macrocephaly was not present in at least one patient.",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.7202852368354797
+        },
+        {
+            "content": "Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5. In the literature, 50% of patients presented with different brain abnormalities. **5. Key Findings:**\nA significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature is the presence of developmental delay or intellectual disability. Macrocephaly at the last evaluation was universally reported in 100% of literature cases. Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5).",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.7047966122627258
+        }
+    ],
+    "summary": "Table 1 reports that macrocephaly at the last evaluation was universally present in 100% of the previously reported literature cases. The table presents a comparative analysis including anthropometric measurements for five novel patients and aggregates and compares these findings with data from 15 previously reported patients in a \"Data in literature\" summary column."
+}

@@ -1,0 +1,36 @@
+{
+    "query": "Number of cases with KPTN Syndrome",
+    "chunks": [
+        {
+            "content": "Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5). Epilepsy was noted in two of the five novel patients (Patient 1 and 2, both with GTCS) and in 33% of literature cases, with seizure onset ranging from infancy to early childhood. While Patient 3's MRI was normal, other novel patients and 50% of literature cases showed various brain abnormalities, highlighting a spectrum of neurological involvement. **6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.8035210371017456
+        },
+        {
+            "content": "Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5. In the literature, 50% of patients presented with different brain abnormalities. **5. Key Findings:**\nA significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature is the presence of developmental delay or intellectual disability. Macrocephaly at the last evaluation was universally reported in 100% of literature cases. Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5).",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.7937008142471313
+        },
+        {
+            "content": "**Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30–50, while Patient 4 and Patient 5 each had an IQ of 50–70. All 100% of the literature cases also showed developmental delay or intellectual disability. In terms of behavioral abnormalities, Patient 1 exhibited repetitive movements, autistic features, and stereotypic movements. Patient 2 displayed stereotypic movements, and Patient 3 had general behavioral abnormalities. Behavioral abnormalities were not documented for Patient 4 and Patient 5. In the literature, 33% of patients had behavioral abnormalities. Epilepsy was present in Patient 1, characterized by generalized tonic-clonic seizures (GTCS), and in Patient 2, also with GTCS. Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.6833135485649109
+        },
+        {
+            "content": "Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS. The onset of seizures for Patient 1 was at 5 years of age, and for Patient 2, it was at 13 months. The literature cases reported seizure onset ranging from 3 months to 7 years. EEG findings for Patient 1 included epileptic discharges and focal slow activity in the frontal region. Patient 2's EEG showed fronto-temporal sharp-wave complexes on the left side. EEG findings were not documented for Patient 3, Patient 4, and Patient 5, and were not available for the literature data. MRI findings for Patient 1 revealed optical nerve tortuosity and a flat pituitary gland. Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.6495465040206909
+        },
+        {
+            "content": "**1. Table Title/Caption:**\nThe table is titled \"TABLE 1 Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\" **2. Table Purpose:**\nThis table presents a comprehensive comparative analysis of demographic information, anthropometric measurements, and neurodevelopmental phenotypes, including epilepsy characteristics, for five newly identified patients with *KPTN* gene-related syndrome. It also aggregates and compares these findings with data from 15 previously reported patients in existing literature to provide broader context and identify common patterns. **3. Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\"",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.6381018161773682
+        }
+    ],
+    "summary": "There are 5 novel patients and 15 previously reported patients with KPTN gene-related syndrome, totaling 20 cases (Source 5)."
+}

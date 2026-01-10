@@ -1,0 +1,36 @@
+{
+    "query": "According to Table 1, which patients have both developmental delay and epilepsy?",
+    "chunks": [
+        {
+            "content": "**Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30–50, while Patient 4 and Patient 5 each had an IQ of 50–70. All 100% of the literature cases also showed developmental delay or intellectual disability. In terms of behavioral abnormalities, Patient 1 exhibited repetitive movements, autistic features, and stereotypic movements. Patient 2 displayed stereotypic movements, and Patient 3 had general behavioral abnormalities. Behavioral abnormalities were not documented for Patient 4 and Patient 5. In the literature, 33% of patients had behavioral abnormalities. Epilepsy was present in Patient 1, characterized by generalized tonic-clonic seizures (GTCS), and in Patient 2, also with GTCS. Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 1.0
+        },
+        {
+            "content": "*   \"Height at last evaluation (SD)\": The patient's height at their last evaluation, reported with standard deviation (SD). *   \"Dysmorphic facial features\": Descriptions of any unusual facial characteristics observed. The \"Neurodevelopmental phenotype and epilepsy\" section contains rows for:\n*   \"Developmental delay/Intellectual disability\": Indicates the presence or absence of developmental delay or intellectual disability, sometimes including IQ ranges. *   \"Behavioral abnormalities\": Descriptions of any noted behavioral issues. *   \"Epilepsy\": Indicates the presence or absence of epilepsy and, if present, the type of seizures. *   \"Onset of seizures in years\": The age at which seizures first began. *   \"EEG findings\": Results from electroencephalography. *   \"MRI findings\": Results from magnetic resonance imaging. **4. Table Data:**\n\n**Patient Demographics and Genetics:**\nPatient 1 originated from Germany, is male, and was 6 years old at evaluation.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.9567540287971497
+        },
+        {
+            "content": "Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5). Detailed data of ASM of these reported individuals have not yet been published. Here, we report epilepsy in two of five patients. Patients 1 and 2 of this study have developmental and epileptic encephalopathies (DEEs) with an early diagnosis of a developmental delay and seizure onset at the age of 5 years and 13 months, respectively. The other three patients had not developed epilepsy at the age of 6, 9, and 13 years, respectively. They hold a developmental delay phenotype. So far, only one patient with MRT41 carrying the compound heterozygous variants p.(Met241_Gln246dup) and c.394 + 1G > A was reported with intractable epilepsy and had died at the age of 9 years due to SE (3). Structural brain anomalies may be part of the phenotypic spectrum.",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.9540365934371948
+        },
+        {
+            "content": "Patients 4 and 5 were her affected brothers. Both were born at 40 weeks of gestation with normal measurements and have no medical problems in the neonatal period. Patient 4 was a 9year-old boy with psychomotor delay and moderate intellectual disability with an IQ of 50-70 (Table 1). The expressive language was particularly affected. Physical examination at the age of 9 years showed a height of 128 cm ( -1.4 SD), a weight of 30 kg ( -0.1 SD), and no facial abnormalities. Hearing tests gave normal results. Patient 5 was a 6-year-old boy who also showed moderate intellectual disability, especially with difficulties in expressive language. A hearing problem was excluded in this patient. A genetic investigation confirmed the presence of the homozygous variant c.599 + 1G > A in KPTN in both brothers (Figure 3). Neither of them had seizures. The parents were both heterozygous carriers of the pathogenic KPTN c.599 + 1G > A variant and the GJB2 c.35delG variant, respectively.",
+            "source": "Horn.pdf",
+            "page": "[6]",
+            "score": 0.8183919191360474
+        },
+        {
+            "content": "Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5). Epilepsy was noted in two of the five novel patients (Patient 1 and 2, both with GTCS) and in 33% of literature cases, with seizure onset ranging from infancy to early childhood. While Patient 3's MRI was normal, other novel patients and 50% of literature cases showed various brain abnormalities, highlighting a spectrum of neurological involvement. **6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.7777124643325806
+        }
+    ],
+    "summary": "According to the provided context, Patient 1 and Patient 2 have both developmental delay and epilepsy.\n\nSpecifically:\n*   All five novel patients (Patient 1, Patient 2, Patient 3, Patient 4, and Patient 5) presented with developmental delay or intellectual disability (Source 1, Source 3).\n*   Epilepsy was present in Patient 1 and Patient 2. Patient 3, Patient 4, and Patient 5 did not experience epilepsy (Source 1, Source 3, Source 4, Source 5)."
+}

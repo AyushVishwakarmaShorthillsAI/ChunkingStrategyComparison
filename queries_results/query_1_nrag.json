@@ -1,0 +1,36 @@
+{
+    "query": "What is the name of the affected gene in KPTN Syndrome?",
+    "chunks": [
+        {
+            "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.8299282193183899
+        },
+        {
+            "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. Only about 15 affected individuals have been described in the literature, all with primary or secondary macrocephaly. Using exome sequencing, we identified three different biallelic variants in KPTN in five affected individuals from three unrelated families. In total, two KPTN variants were already reported as a loss of function variants. A novel splice site variant in KPTN was detected in two unrelated families of this study. The core phenotype with neurodevelopment delay was present in all patients. However, macrocephaly was not present in at least one patient.",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.8191659450531006
+        },
+        {
+            "content": "The heterozygous frameshift variant p.(Ser200Ilefs ∗ 55) found in patient 1 has been reported in two affected families of different populations (4, 5). The second variant, p.(Met241_Gln246dup), detected in patient 1 has been described in a compound heterozygous state in two other affected families and is shown to have a profound effect on kaptin function (1, 3). This in-frame duplication in compound heterozygous status is associated with a wide range of severity from status epilepticus to absence seizures (1, 3). Comparing the data on all published patients, there is no association between a specific mutation in KPTN and the severity of epilepsy. The homozygous KPTN variant c.599 + 1G > A, affecting a splice site, occurred in the unrelated families 2 and 3 of this study but has not been reported previously in the literature. In conclusion, our data expand the phenotypic and mutational spectra of this rare syndrome. We highlight the severe epilepsy phenotype with DEE in two of the five reported children.",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.7734053134918213
+        },
+        {
+            "content": "Biallelic variants in KPTN cause the syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41, OMIM 615637) (1). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. However, only few affected individuals have been described so far. MRT41 was first identified in four consanguineous families of the Amish community of Ohio in 2014 (1).",
+            "source": "Horn.pdf",
+            "page": "[1, 2]",
+            "score": 0.7583264708518982
+        },
+        {
+            "content": "Patients 4 and 5 were her affected brothers. Both were born at 40 weeks of gestation with normal measurements and have no medical problems in the neonatal period. Patient 4 was a 9year-old boy with psychomotor delay and moderate intellectual disability with an IQ of 50-70 (Table 1). The expressive language was particularly affected. Physical examination at the age of 9 years showed a height of 128 cm ( -1.4 SD), a weight of 30 kg ( -0.1 SD), and no facial abnormalities. Hearing tests gave normal results. Patient 5 was a 6-year-old boy who also showed moderate intellectual disability, especially with difficulties in expressive language. A hearing problem was excluded in this patient. A genetic investigation confirmed the presence of the homozygous variant c.599 + 1G > A in KPTN in both brothers (Figure 3). Neither of them had seizures. The parents were both heterozygous carriers of the pathogenic KPTN c.599 + 1G > A variant and the GJB2 c.35delG variant, respectively.",
+            "source": "Horn.pdf",
+            "page": "[6]",
+            "score": 0.7509002685546875
+        }
+    ],
+    "summary": "The affected gene in KPTN Syndrome is the **kaptin gene (KPTN)**."
+}

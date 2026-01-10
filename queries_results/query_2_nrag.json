@@ -1,0 +1,36 @@
+{
+    "query": "What are the synonyms for KPTN Syndrome?",
+    "chunks": [
+        {
+            "content": "However, macrocephaly was not present in at least one patient. In total, two patients exhibited developmental and epileptic encephalopathies with generalized tonic-clonic seizures that were drug-resistant in one of them. Thus, we further delineate the KPTN -related syndrome, especially emphasizing the severity of epilepsy phenotypes and difficulties in treatment in patients of our cohort. KPTN gene, macrocephaly, neurodevelopment delay, epilepsy, splice site variant",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.8447183966636658
+        },
+        {
+            "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy.",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.8217428922653198
+        },
+        {
+            "content": "1 Department of Pediatric Neurology, Charité-Universitätsmedizin Berlin, Berlin, Germany, 2 Center for Chronically Sick Children, Charité-Universitätsmedizin Berlin, Berlin, Germany, 3 Institute of Medical Genetics and Human Genetics, Charité-Universitätsmedizin Berlin, Berlin, Germany, 4 BIH Biomedical Innovation Academy, BIH Charité Clinician Scientist Program, Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Berlin, Germany, 5 Department of Clinical Genetics, Linköping University, Linköping, Sweden, 6 Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden, 7 Centre for Rare Diseases in South East Region of Sweden, Linköping University, Linköping, Sweden, 8 Praxis für Humangenetik Tübingen, Tübingen, Germany, 9 Institute for Cell Biology and Neurobiology, Charité-Universitätsmedizin Berlin, Berlin, Germany",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.7795658111572266
+        },
+        {
+            "content": "1 Department of Pediatric Neurology, Charité-Universitätsmedizin Berlin, Berlin, Germany, 2 Center for Chronically Sick Children, Charité-Universitätsmedizin Berlin, Berlin, Germany, 3 Institute of Medical Genetics and Human Genetics, Charité-Universitätsmedizin Berlin, Berlin, Germany, 4 BIH Biomedical Innovation Academy, BIH Charité Clinician Scientist Program, Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Berlin, Germany, 5 Department of Clinical Genetics, Linköping University, Linköping, Sweden, 6 Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden, 7 Centre for Rare Diseases in South East Region of Sweden, Linköping University, Linköping, Sweden, 8 Praxis für Humangenetik Tübingen, Tübingen, Germany, 9 Institute for Cell Biology and Neurobiology, Charité-Universitätsmedizin Berlin, Berlin, Germany",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.7795658111572266
+        },
+        {
+            "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. Only about 15 affected individuals have been described in the literature, all with primary or secondary macrocephaly. Using exome sequencing, we identified three different biallelic variants in KPTN in five affected individuals from three unrelated families. In total, two KPTN variants were already reported as a loss of function variants. A novel splice site variant in KPTN was detected in two unrelated families of this study. The core phenotype with neurodevelopment delay was present in all patients. However, macrocephaly was not present in at least one patient.",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.730721116065979
+        }
+    ],
+    "summary": "Synonyms for KPTN Syndrome include:\n\n*   autosomal recessive intellectual developmental disorder 41\n*   MRT41"
+}

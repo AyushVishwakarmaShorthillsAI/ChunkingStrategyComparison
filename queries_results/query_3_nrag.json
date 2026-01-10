@@ -1,0 +1,36 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "chunks": [
+        {
+            "content": "Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5). Epilepsy was noted in two of the five novel patients (Patient 1 and 2, both with GTCS) and in 33% of literature cases, with seizure onset ranging from infancy to early childhood. While Patient 3's MRI was normal, other novel patients and 50% of literature cases showed various brain abnormalities, highlighting a spectrum of neurological involvement. **6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.944738507270813
+        },
+        {
+            "content": "Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5. In the literature, 50% of patients presented with different brain abnormalities. **5. Key Findings:**\nA significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature is the presence of developmental delay or intellectual disability. Macrocephaly at the last evaluation was universally reported in 100% of literature cases. Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5).",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.8875075578689575
+        },
+        {
+            "content": "**1. Table Title/Caption:**\nThe table is titled \"TABLE 1 Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\" **2. Table Purpose:**\nThis table presents a comprehensive comparative analysis of demographic information, anthropometric measurements, and neurodevelopmental phenotypes, including epilepsy characteristics, for five newly identified patients with *KPTN* gene-related syndrome. It also aggregates and compares these findings with data from 15 previously reported patients in existing literature to provide broader context and identify common patterns. **3. Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\"",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.8395441770553589
+        },
+        {
+            "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.6781314015388489
+        },
+        {
+            "content": "Structural brain anomalies may be part of the phenotypic spectrum. Various brain anomalies such as ventriculomegaly and non-specific supratentorial leukoencephalopathy have been documented in half of the reported affected individuals, but none has been reported in several individuals frequently. Here, we report novel MRI findings of optic nerve tortuosity and signs of intracranial hypertension in patients 1 and 2 (flattened pituitary gland in patient 1 and mild enlargement of the inner cerebrospinal fluid spaces in patient 2). Intracranial hypertension, in patient 2 confirmed by lumbar puncture and to a mild degree in patient 1, has not previously been reported in association with pathogenic biallelic variants of KPTN. More than half of the reported patients developed behavioral abnormalities such as repetitive speech, stereotypic movements, hyperactivity, and autistic features (1, 5). Patients 1, 2, and 3 of this study presented similar behavioral problems.",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.5917003154754639
+        }
+    ],
+    "summary": "People suffering from KPTN Syndrome commonly exhibit:\n\n*   **Developmental delay or intellectual disability:** This is a significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature.\n*   **Dysmorphic facial features:** These are common manifestations, particularly:\n    *   **Frontal bossing** (present in 100% of literature cases).\n    *   **Prominent chin** (present in 73% of literature cases).\n*   **Macrocephaly:** Universally reported in 100% of literature cases, though it may not occur in all patients.\n*   **Behavioral abnormalities:** More than half of reported patients developed issues such as repetitive speech, stereotypic movements, hyperactivity, and autistic features.\n*   **Brain abnormalities:** Various structural brain anomalies, such as ventriculomegaly and non-specific supratentorial leukoencephalopathy, have been documented in half (50%) of reported affected individuals in the literature.\n*   **Epilepsy:** Noted in about one-third (33%) of literature cases, with seizure onset ranging from infancy to early childhood. GTCSs (Generalized Tonic-Clonic Seizures) are the most frequently described seizure type."
+}

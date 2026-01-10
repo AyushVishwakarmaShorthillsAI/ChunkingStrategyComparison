@@ -1,0 +1,1526 @@
+{
+  "document_info": {
+    "processed_at": "2026-01-06T02:40:34.424291",
+    "total_chunks": 88,
+    "chunking_method": "Docling HierarchicalChunker",
+    "folder_path": "/home/shtlp_0107/Desktop/ChunkingStrtComp/input_pdfs",
+    "text_chunks": 76,
+    "table_chunks": 12
+  },
+  "pdf_details": {
+    "Horn.pdf": {
+      "table_pages": [
+        4
+      ],
+      "original_filename": "Horn.pdf"
+    }
+  },
+  "chunks": [
+    {
+      "chunk_id": 1,
+      "content": "EDITED BY Anna Maria Lavezzi, University of Milan, Italy REVIEWED BY Sander Pajusalu, Tartu University Hospital, Estonia Asmat Ullah, University of Swabi, Pakistan",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "OPEN ACCESS",
+        "char_count": 163,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 2,
+      "content": "REVIEWED BY Sander Pajusalu, Tartu University Hospital, Estonia Asmat Ullah, University of Swabi, Pakistan RECEIVED 01 December 2022 ACCEPTED 15 December 2022 PUBLISHED 10 January 2023",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "OPEN ACCESS",
+        "char_count": 184,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 3,
+      "content": "RECEIVED 01 December 2022 ACCEPTED 15 December 2022 PUBLISHED 10 January 2023 Horn S, Danyel M, Erdmann N, Boschann F, Gunnarsson C, Biskup S, Juengling J, Potratz C, Prager C and Kaindl AM (2023) Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy. Front.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "*CORRESPONDENCE",
+        "char_count": 329,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 4,
+      "content": "Horn S, Danyel M, Erdmann N, Boschann F, Gunnarsson C, Biskup S, Juengling J, Potratz C, Prager C and Kaindl AM (2023) Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy. Front. Neurol. 13:1113811. doi: 10.3389/fneur.2022.1113811 © 2023 Horn, Danyel, Erdmann, Boschann, Gunnarsson, Biskup, Juengling, Potratz, Prager and Kaindl. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "CITATION",
+        "char_count": 514,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 5,
+      "content": "© 2023 Horn, Danyel, Erdmann, Boschann, Gunnarsson, Biskup, Juengling, Potratz, Prager and Kaindl. This is an open-access article distributed under the terms of the Creative Commons Attribution License (CC BY). The use, distribution or reproduction in other forums is permitted, provided the original author(s) and the copyright owner(s) are credited and that the original publication in this journal is cited, in accordance with accepted academic practice. No use, distribution or reproduction is permitted which does not comply with these terms. Svea Horn 1,2 , Magdalena Danyel 3,4 , Nina Erdmann 1,2 , Felix Boschann 3,4 , Cecilia Gunnarsson 5,6,7 , Saskia Biskup 8 , Jerome Juengling 8 , Cornelia Potratz 1,2 , Christine Prager 1,2 and Angela M. Kaindl 1,2,9 *",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "COPYRIGHT",
+        "char_count": 765,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 6,
+      "content": "Svea Horn 1,2 , Magdalena Danyel 3,4 , Nina Erdmann 1,2 , Felix Boschann 3,4 , Cecilia Gunnarsson 5,6,7 , Saskia Biskup 8 , Jerome Juengling 8 , Cornelia Potratz 1,2 , Christine Prager 1,2 and Angela M. Kaindl 1,2,9 *",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 217,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 7,
+      "content": "1 Department of Pediatric Neurology, Charité-Universitätsmedizin Berlin, Berlin, Germany, 2 Center for Chronically Sick Children, Charité-Universitätsmedizin Berlin, Berlin, Germany, 3 Institute of Medical Genetics and Human Genetics, Charité-Universitätsmedizin Berlin, Berlin, Germany, 4 BIH Biomedical Innovation Academy, BIH Charité Clinician Scientist Program, Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Berlin, Germany, 5 Department of Clinical Genetics, Linköping University, Linköping, Sweden, 6 Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden, 7 Centre for Rare Diseases in South East Region of Sweden, Linköping University, Linköping, Sweden, 8 Praxis für Humangenetik Tübingen, Tübingen, Germany, 9 Institute for Cell Biology and Neurobiology, Charité-Universitätsmedizin Berlin, Berlin, Germany",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 869,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 8,
+      "content": "1 Department of Pediatric Neurology, Charité-Universitätsmedizin Berlin, Berlin, Germany, 2 Center for Chronically Sick Children, Charité-Universitätsmedizin Berlin, Berlin, Germany, 3 Institute of Medical Genetics and Human Genetics, Charité-Universitätsmedizin Berlin, Berlin, Germany, 4 BIH Biomedical Innovation Academy, BIH Charité Clinician Scientist Program, Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Berlin, Germany, 5 Department of Clinical Genetics, Linköping University, Linköping, Sweden, 6 Department of Biomedical and Clinical Sciences, Linköping University, Linköping, Sweden, 7 Centre for Rare Diseases in South East Region of Sweden, Linköping University, Linköping, Sweden, 8 Praxis für Humangenetik Tübingen, Tübingen, Germany, 9 Institute for Cell Biology and Neurobiology, Charité-Universitätsmedizin Berlin, Berlin, Germany",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 869,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 9,
+      "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 313,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 10,
+      "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. Only about 15 affected individuals have been described in the literature, all with primary or secondary macrocephaly. Using exome sequencing, we identified three different biallelic variants in KPTN in five affected individuals from three unrelated families. In total, two KPTN variants were already reported as a loss of function variants. A novel splice site variant in KPTN was detected in two unrelated families of this study. The core phenotype with neurodevelopment delay was present in all patients. However, macrocephaly was not present in at least one patient.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 883,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 11,
+      "content": "However, macrocephaly was not present in at least one patient. In total, two patients exhibited developmental and epileptic encephalopathies with generalized tonic-clonic seizures that were drug-resistant in one of them. Thus, we further delineate the KPTN -related syndrome, especially emphasizing the severity of epilepsy phenotypes and difficulties in treatment in patients of our cohort. KPTN gene, macrocephaly, neurodevelopment delay, epilepsy, splice site variant",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "char_count": 470,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 12,
+      "content": "KPTN gene, macrocephaly, neurodevelopment delay, epilepsy, splice site variant Biallelic variants in KPTN cause the syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41, OMIM 615637) (1). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1
+        ],
+        "current_heading": "KEYWORDS",
+        "char_count": 350,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 13,
+      "content": "Biallelic variants in KPTN cause the syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41, OMIM 615637) (1). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. However, only few affected individuals have been described so far. MRT41 was first identified in four consanguineous families of the Amish community of Ohio in 2014 (1).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          1,
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 441,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 14,
+      "content": "described so far. MRT41 was first identified in four consanguineous families of the Amish community of Ohio in 2014 (1). All affected individuals in this study presented with macrocephaly and neurodevelopmental delay, and onethird developed epilepsy with the absence of seizures and generalized tonic-clonic seizures. Using microsatellite-marker analysis followed by whole exome sequencing (WES), the homozygous truncating variant p.(Ser259 ∗ ) in the KPTN gene (NM_007059.4) was discovered in two families of this study (1). In the two other families of this study, the above-mentioned nonsense variant was detected in a compound heterozygous state with an in-frame duplication p.(Met241_246Glndup). This duplication of the six amino acids was predicted to disrupt the alpha-helix 4 of the protein.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 799,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 15,
+      "content": "This duplication of the six amino acids was predicted to disrupt the alpha-helix 4 of the protein. Functional studies of both variants suggested a loss of function effect (LoF) either by the degradation of the mutant transcript via nonsense-mediated mRNA decay (NMD) or by the production of mislocalized and/or non-functional protein products (1). This duplication together with the splice site variant c.394 + 1G > A, and a frameshift variant (2) p.(Ser223fs), was described in two further affected families, respectively (2, 3). An additional recurrent homozygous frameshift variant p.(Ser200Ilefs ∗ ) was reported in two unrelated families (4, 5). All these affected individuals presented with core manifestations, developmental delay, and macrocephaly (4, 5). The KPTN gene encodes for kaptin, which plays a crucial role in the neuromorphogenesis and development of the brain. Kaptin was shown to be expressed in neuronal cells and was found to localize to F-actin-rich structures (1).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 989,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 16,
+      "content": "The KPTN gene encodes for kaptin, which plays a crucial role in the neuromorphogenesis and development of the brain. Kaptin was shown to be expressed in neuronal cells and was found to localize to F-actin-rich structures (1). Immunofluorescence analyses in primary neuronal cells demonstrated endogenous and GFP-tagged kaptin to be associated with dynamic actin cytoskeletal structures (1). The loss of kaptin function leads to an impairment of the neuronal actin cytoskeleton, dendritic arborization, and spine formation (1). Furthermore, kaptin has been proven as a negative upstream regulator of the mTORC1 signaling pathway as a part of the KICSTOR protein complex (6). mTORC1 is an important regulator of cell growth and is dysregulated in different human diseases, including cancer and epilepsy phenotypes. Because of hyperactive mTORC1 signaling, patients with pathogenic variants in KPTN might benefit from mTORC inhibitors (5).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 936,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 17,
+      "content": "Because of hyperactive mTORC1 signaling, patients with pathogenic variants in KPTN might benefit from mTORC inhibitors (5). Detailed data on seizures and antiepileptic treatment of individuals with biallelic pathogenic variants in KPTN have not yet been published. We present the data of 5 novel patients with special emphasis on severe epilepsy and antiepileptic treatment in two of them.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 389,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 18,
+      "content": "Detailed data on seizures and antiepileptic treatment of individuals with biallelic pathogenic variants in KPTN have not yet been published. We present the data of 5 novel patients with special emphasis on severe epilepsy and antiepileptic treatment in two of them. Patient 1 was a 6-year-old son of non-consanguineous parents of German origin. He was born at term without complications after an uneventful pregnancy, with normal birth weight (2,710 g, -0.9 SD), birth length (49.0 cm, -0.5",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1. Introduction",
+        "char_count": 490,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 19,
+      "content": "Patient 1 was a 6-year-old son of non-consanguineous parents of German origin. He was born at term without complications after an uneventful pregnancy, with normal birth weight (2,710 g, -0.9 SD), birth length (49.0 cm, -0.5 SD), and occipitofrontal head circumference (OFC, 34.5 cm, + 0.1 SD). Secondary disproportionate macrocephaly and facial dysmorphisms including a prominent forehead, frontal bossing, and thin lips were identified at 2 months of age (Figure 1A, Table 1).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 478,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 20,
+      "content": "SD), and occipitofrontal head circumference (OFC, 34.5 cm, + 0.1 SD). Secondary disproportionate macrocephaly and facial dysmorphisms including a prominent forehead, frontal bossing, and thin lips were identified at 2 months of age (Figure 1A, Table 1). The OFC was + 2.2 SD (55 cm) at 6 years of age, while height and weight were both at -1 SD. Motor development was normal with rolling from side to side at the age of 9 months and free ambulation at 18 months of age. Cognitive and speech development were delayed already early. During the 1st year, syllables were uttered, and a few single words were spoken inconsistently by the first birthday. Speech comprehension was better than expressive speech. At the age of 6 years, the boy spoke about 50 words inconsistently in one to twoword sentences. At this age, the patient presented with autistic features such as repetitive movements, poor eye contact, and restlessness. Standardized cognitive testing was not feasible due to severe intellectual impairment.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 1011,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 21,
+      "content": "Standardized cognitive testing was not feasible due to severe intellectual impairment. The patient received speech and occupational therapy. Generalized tonic-clonic seizures (GTCSs) without awareness were observed predominantly at night starting at the age of 5 years. In the beginning, the GTCS lasted for 30 s and were accompanied by upward gaze and postictal tiredness.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 373,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 22,
+      "content": "Generalized tonic-clonic seizures (GTCSs) without awareness were observed predominantly at night starting at the age of 5 years. In the beginning, the GTCS lasted for 30 s and were accompanied by upward gaze and postictal tiredness. Routine electroencephalography (EEG) revealed the focal sharp waves (left, front-oparietal), rhythmic 6 Hz electrical activity, and signs of focal cerebral dysfunction with theta waves slow activity in the frontal area (Figure 2A). Antiseizure medication (ASM) with levetiracetam (40 mg/kg/day) was implemented. Nevertheless, nightly GTCSs were observed in series (each 30 s, with regaining awareness in between) and episodes during sleeping with lip-smacking. Therefore, the dosage of levetiracetam was increased to 60 mg/kg/day and clobazam was added with 0.11 mg/kg/day. Shortly thereafter, painful muscle cramps in the feet occurred but were not associated with any epileptic discharges on EEG.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2,
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 931,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 23,
+      "content": "Shortly thereafter, painful muscle cramps in the feet occurred but were not associated with any epileptic discharges on EEG. Given that muscle cramps can occur as a side effect of clobazam, clobazam was weaned and oxcarbazepine was introduced (0.25 mg/kg/day). Unfortunately, this change in ASM led to an increase in short episodes of lip-smacking, teeth grinding, upward gaze, dizziness, apathy, and fatigue. After weaning of oxcarbazepine, the patient had to be hospitalized four times because of recurrent status epilepticus (SE), which presented as a series of focal onset seizures (stiffness of arm or leg without losing awareness) and partially secondary GTCS with oxygen desaturation to 75% and perioral cyanosis.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2,
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 720,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 24,
+      "content": "After weaning of oxcarbazepine, the patient had to be hospitalized four times because of recurrent status epilepticus (SE), which presented as a series of focal onset seizures (stiffness of arm or leg without losing awareness) and partially secondary GTCS with oxygen desaturation to 75% and perioral cyanosis. The patient was admitted one time to the intensive care unit (ICU) and treated acutely with oral midazolam (5 mg), intravenous (IV) lorazepam (0.1 mg/kg), IV lacosamide (2 mg/kg), IV levetiracetam (60 mg/kg), IV clonazepam (0.06 mg/kg), and finally continuous IV fosphenytoin (exact dosage not available) without success. Therefore, continuous IV phenobarbital (10 mg/kg/day) was introduced after 24 h of SE, and the seizures were stopped. At a phenobarbital dosage of IV 10 mg/kg/day, bradypnea with desaturations occurred. Phenobarbital was, thus, given orally (5 mg/kg/day), but had to be weaned since the patient developed a severe skin rash",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2,
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 956,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 25,
+      "content": "Phenobarbital was, thus, given orally (5 mg/kg/day), but had to be weaned since the patient developed a severe skin rash and elevated liver enzymes [GPT 670 U/I (normal range < 41 U/I) and GOT 280 U/I (normal range < 50 U/I)]. Instead, oral valproic acid was implemented (10 mg/kg/day).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          2,
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 286,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 26,
+      "content": "and elevated liver enzymes [GPT 670 U/I (normal range < 41 U/I) and GOT 280 U/I (normal range < 50 U/I)]. Instead, oral valproic acid was implemented (10 mg/kg/day). Finally, consultation at the age of 6.5 years, the patient had been seizure free for 6 months on the combination of four ASMs (levetiracetam 60 mg/kg/day, clonazepam 0.06 mg/kg/day, valproic acid 10 mg/kg/day, and lacosamide 2 mg/kg/day). The course of the disease leads to the classification of developmental and epileptic encephalopathies. Cranial magnetic resonance imaging (MRI) revealed the optical nerve tortuosity and a flat pituitary gland, which could be interpreted as indirect signs of benign intracranial hypertension. In the lumbar puncture, the opening pressure was borderline with 24 cmH20 (7, 8), and there were no abnormalities on the ophthalmological examination.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 847,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 27,
+      "content": "Cranial magnetic resonance imaging (MRI) revealed the optical nerve tortuosity and a flat pituitary gland, which could be interpreted as indirect signs of benign intracranial hypertension. In the lumbar puncture, the opening pressure was borderline with 24 cmH20 (7, 8), and there were no abnormalities on the ophthalmological examination. The patient did not present with the clinical signs of intracranial hypertension such as vomiting or headaches. The results of chromosome analysis and array comparative genetic hybridization (CGH) were normal. WES detected compound heterozygous pathogenic variants in the KPTN gene (c.597_598dupTA https://www.ncbi.nlm.nih.gov/ clinvar/variation/279826; p.Ser200Ile fs ∗ 55 and c.714_731dup https://www.ncbi.nlm.nih.gov/clinvar/variation/279826; and p.Met241_Gln246dup) (Figure 3). The American College of Medical Genetics and Genomics (ACMG) classification of both variants is found in the Supplementary material. They co-segregated with the phenotype in the family.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 1007,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 28,
+      "content": "They co-segregated with the phenotype in the family. Patient 2 was a 1.5-year-old male child of consanguineous, healthy parents of Afghani origin. A maternal uncle had died",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 172,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 29,
+      "content": "Patient 2 was a 1.5-year-old male child of consanguineous, healthy parents of Afghani origin. A maternal uncle had died 2 days postnatally of an unknown cause and a paternal uncle had febrile seizures. The pregnancy was complicated by preeclampsia and gestosis resulting in premature birth by Cesarean section at 33 + 1 weeks of gestation.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 339,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 30,
+      "content": "2 days postnatally of an unknown cause and a paternal uncle had febrile seizures. The pregnancy was complicated by preeclampsia and gestosis resulting in premature birth by Cesarean section at 33 + 1 weeks of gestation. His anthropometric data were still normal at birth, with a weight of 1,605 g ( -1.2 SD), a length of 43 cm ( -0.6 SD), and an OFC of 31cm ( -0.2 SD). Facial dysmorphic features comprised of the prominent forehead, synophrys, a low frontal hairline, and dysplastic ears but no macrocephaly (Figure 1B, Table 1). The boy had an accessory mamilla and seven café-au-lait-spots. The patient was treated in the neonatology ICU until the 18th day of life due to prematurity. Here, an atrial septal defect II and patent foramen ovale were diagnosed, but no complications occurred. Cardiologic examinations were carried out on a regular basis. His motor development was delayed. He began to crawl at the age of 13 months but was unable to walk without support at the last consultation at the age of 16 months.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 1020,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 31,
+      "content": "He began to crawl at the age of 13 months but was unable to walk without support at the last consultation at the age of 16 months. At that time, he spoke two words. His socioemotional development and play behavior were not age-appropriate, and stereotypical movements of hands, especially 'hand-wringing movements' were observed. At the age of 16 months, his height was 78 cm ( -0.8 SD), weight was 8.7 kg ( -1.7 SD), and OFC was 48 cm ( + 0.02 SD). At the age of 13 months, the patient was hospitalized for GTCS without awareness, upward gaze, and with oxygen desaturation as low as 57% as well as perioral cyanosis. The EEG examination was pathological due to frontotemporal sharp-wave complexes on the left",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 709,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 32,
+      "content": "At the age of 13 months, the patient was hospitalized for GTCS without awareness, upward gaze, and with oxygen desaturation as low as 57% as well as perioral cyanosis. The EEG examination was pathological due to frontotemporal sharp-wave complexes on the left ND, not documented; NA, not available; CTCSs, generalized tonic-clonic seizures; Ass, absence seizures; a (1-5).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          3,
+          4
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 372,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 33,
+      "content": "ND, not documented; NA, not available; CTCSs, generalized tonic-clonic seizures; Ass, absence seizures; a (1-5). hemisphere and a rhythmic 4-5 Hz activity (Figure 2B). ASM with levetiracetam (40 mg/kg/day) was initiated but due to aggressive behavior, it had to be replaced with lamotrigine (5.5 mg/kg/day).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 307,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 34,
+      "content": "hemisphere and a rhythmic 4-5 Hz activity (Figure 2B). ASM with levetiracetam (40 mg/kg/day) was initiated but due to aggressive behavior, it had to be replaced with lamotrigine (5.5 mg/kg/day). No seizures occurred after treatment initiation. Brain MRI showed no anomalies other than a marginal enlargement of the inner cerebrospinal fluid spaces. This was in line with an elevated cerebrospinal fluid opening pressure of 50 cm H20 in a lumbar puncture.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 454,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 35,
+      "content": "Brain MRI showed no anomalies other than a marginal enlargement of the inner cerebrospinal fluid spaces. This was in line with an elevated cerebrospinal fluid opening pressure of 50 cm H20 in a lumbar puncture. No signs of papilledema were found in the ophthalmological examination. Treatment with acetazolamide (10 mg/kg/day) was implemented, and in the further course, the lumbar puncture opening pressure decreased to 19 cm H20.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4,
+          5
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 431,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 36,
+      "content": "with acetazolamide (10 mg/kg/day) was implemented, and in the further course, the lumbar puncture opening pressure decreased to 19 cm H20. Chromosome analysis and array CGH revealed normal results. Trio-WES was performed and detected the homozygous splice site variant KPTN (c.599 + 1G > A) https://www.ncbi.nlm.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          5
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 312,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 37,
+      "content": "Chromosome analysis and array CGH revealed normal results. Trio-WES was performed and detected the homozygous splice site variant KPTN (c.599 + 1G > A) https://www.ncbi.nlm. nih.gov/clinvar/variation/1706595. The c.599 + 1G > A variant is predicted to result in aberrant splicing (Figure 3). The ACMG classification is found in the Supplementary material. The mutation was co-segregated in the respective family. With respect to the high number of caféau-lait-spots, an additional targeted analysis of the NF1 and SPRED1 genes was performed and revealed negative results.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          5
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 571,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 38,
+      "content": "The mutation was co-segregated in the respective family. With respect to the high number of caféau-lait-spots, an additional targeted analysis of the NF1 and SPRED1 genes was performed and revealed negative results. Patient 3 was a 13-year-old girl, the first child of consanguineous parents who were first cousins from Syria. Her psychomotor development was markedly delayed from infancy (Table 1).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          5,
+          6
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 399,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 39,
+      "content": "Patient 3 was a 13-year-old girl, the first child of consanguineous parents who were first cousins from Syria. Her psychomotor development was markedly delayed from infancy (Table 1). At the age of 13 years, she had a severe intellectual disability with an IQ of 30-50 without speech development. She had behavior problems such as autistic features. In addition, she showed profound sensorineural hearing loss. At the age of 13 years, her height was 150 cm (-1.3 SD), and her weight was 40 kg (-1.1 SD). Her facial signs included a broad nasal bridge, a short philtrum, a large mouth, and a prominent chin. MRI of the brain showed no abnormalities. WES revealed the homozygous variant c.599 + 1G > Ain KPTN (Figure 3). In addition, the homozygous pathogenic variant c.35delG in GJB2 , associated with hearing loss, was identified. Neither MRI nor EEG results have been available for evaluation. Patients 4 and 5 were her affected brothers.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 939,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 40,
+      "content": "Patients 4 and 5 were her affected brothers. Both were born at 40 weeks of gestation with normal measurements and have no medical problems in the neonatal period.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 162,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 41,
+      "content": "Patients 4 and 5 were her affected brothers. Both were born at 40 weeks of gestation with normal measurements and have no medical problems in the neonatal period. Patient 4 was a 9year-old boy with psychomotor delay and moderate intellectual disability with an IQ of 50-70 (Table 1). The expressive language was particularly affected. Physical examination at the age of 9 years showed a height of 128 cm ( -1.4 SD), a weight of 30 kg ( -0.1 SD), and no facial abnormalities. Hearing tests gave normal results. Patient 5 was a 6-year-old boy who also showed moderate intellectual disability, especially with difficulties in expressive language. A hearing problem was excluded in this patient. A genetic investigation confirmed the presence of the homozygous variant c.599 + 1G > A in KPTN in both brothers (Figure 3). Neither of them had seizures. The parents were both heterozygous carriers of the pathogenic KPTN c.599 + 1G > A variant and the GJB2 c.35delG variant, respectively.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 981,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 42,
+      "content": "The parents were both heterozygous carriers of the pathogenic KPTN c.599 + 1G > A variant and the GJB2 c.35delG variant, respectively. The institutional ethics committee of the Charité did not require the study to be reviewed or approved by an ethics committee because all investigations were standard di for WES in patients 1 and 3-5, sequencing libraries were prepared for each sample from 50 ng genomic DNA using the Twist enrichment workflow (Twist Bioscience, San Francisco, CA) and a custom-design enrichment probe set (CeGaT ExomeXtra 1.0) or SureSelectXT workflow (Agilent, Santa Clara, CA) and the Human All Exon enrichment kit (version 6), respectively. Library preparation and capture were performed according to the manufacturer's instructions, and paired-end sequencing was performed on a NovaSeq instrument (Illumina, San Diego, CA) with 2 × 100 base pairs (bp) read length.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "1.1. Clinical report",
+        "char_count": 888,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 43,
+      "content": "The institutional ethics committee of the Charité did not require the study to be reviewed or approved by an ethics committee because all investigations were standard di for WES in patients 1 and 3-5, sequencing libraries were prepared for each sample from 50 ng genomic DNA using the Twist enrichment workflow (Twist Bioscience, San Francisco, CA) and a custom-design enrichment probe set (CeGaT ExomeXtra 1.0) or SureSelectXT workflow (Agilent, Santa Clara, CA) and the Human All Exon enrichment kit (version 6), respectively. Library preparation and capture were performed according to the manufacturer's instructions, and paired-end sequencing was performed on a NovaSeq instrument (Illumina, San Diego, CA) with 2 × 100 base pairs (bp) read length. After demultiplexing (Illumina bcl2fastq), adapters were trimmed with Skewer. Trimmed raw reads were aligned to the human genome (hg19) with the Burrows-Wheeler Aligner. Average coverage on target was 155 × and 158 × , respectively.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "2. Methods",
+        "char_count": 986,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 44,
+      "content": "Average coverage on target was 155 × and 158 × , respectively. Sequence variants were called (VarScan 2.4.2, CeGaT extended version or CeGaT stratacall, respectively) with a minimum variant allele frequency of 5%. Resulting variants were annotated with population frequencies from dbSNP, gnomAD (2.1/3.1), or ExAC (0.3.1), respectively, and an internal database (CeGaT) with functional predictions from dbNSFP, with the publications from HGMD available at the time, and with transcript information from Ensembl, RefSeq, Gencode, and CCDS. Variants were filtered to remove the frequent variants (MAF < 1.5). All variants were manually assessed before inclusion in the final report. Trio-WES was performed for patient 2 and his parents. Exome enrichment, including library preparation, was performed with the SureSelect Human All Exon Kit V6 using the Bravo Automated Liquid Handling Platform according to the manufacturer's specifications (Agilent Technologies, Santa Clara, CA).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6
+        ],
+        "current_heading": "2. Methods",
+        "char_count": 978,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 45,
+      "content": "Trio-WES was performed for patient 2 and his parents. Exome enrichment, including library preparation, was performed with the SureSelect Human All Exon Kit V6 using the Bravo Automated Liquid Handling Platform according to the manufacturer's specifications (Agilent Technologies, Santa Clara, CA). Next-generation sequencing on the Illumina NovaSeq6000 was conducted in 2 × 100 bp paired-end mode (Illumina, San Diego, CA). Overall coverage of 117 × for the child was achieved with > 99% of the reads reaching an individual coverage of > 20 × . Reads were aligned to the human genome build (GRCh37/hg19). Variants were filtered by minor allele frequency in the Genome Aggregation Database (9) by mode of inheritance, and by predicted functional impact using the VarFish platform (10). The pathogenicity of identified variants was evaluated using MutationTaster (http:// www.mutationtaster.org), Polyphen-2 (11), SIFT (12), and by CADD score.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          6,
+          7
+        ],
+        "current_heading": "2. Methods",
+        "char_count": 941,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 46,
+      "content": "(9) by mode of inheritance, and by predicted functional impact using the VarFish platform (10). The pathogenicity of identified variants was evaluated using MutationTaster (http:// www.mutationtaster.org), Polyphen-2 (11), SIFT (12), and by CADD score. The splicing effect was assessed using varSEAK Online (https://varseak.bio/) and the scores of SpliceAI and MMsplice. Furthermore, a comparison with the mutation databases ClinVar (http://www.ncbi.nlm.nih.gov/clinvar/) and the HGMD (HGMD Professional 2021.1) was performed. Candidate variants were classified according to the ACMG guidelines (13). Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "2. Methods",
+        "char_count": 1008,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 47,
+      "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 773,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 48,
+      "content": "Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5). Detailed data of ASM of these reported individuals have not yet been published. Here, we report epilepsy in two of five patients. Patients 1 and 2 of this study have developmental and epileptic encephalopathies (DEEs) with an early diagnosis of a developmental delay and seizure onset at the age of 5 years and 13 months, respectively. The other three patients had not developed epilepsy at the age of 6, 9, and 13 years, respectively. They hold a developmental delay phenotype. So far, only one patient with MRT41 carrying the compound heterozygous variants p.(Met241_Gln246dup) and c.394 + 1G > A was reported with intractable epilepsy and had died at the age of 9 years due to SE (3). Structural brain anomalies may be part of the phenotypic spectrum.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 988,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 49,
+      "content": "Structural brain anomalies may be part of the phenotypic spectrum. Various brain anomalies such as ventriculomegaly and non-specific supratentorial leukoencephalopathy have been documented in half of the reported affected individuals, but none has been reported in several individuals frequently.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 296,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 50,
+      "content": "Structural brain anomalies may be part of the phenotypic spectrum. Various brain anomalies such as ventriculomegaly and non-specific supratentorial leukoencephalopathy have been documented in half of the reported affected individuals, but none has been reported in several individuals frequently. Here, we report novel MRI findings of optic nerve tortuosity and signs of intracranial hypertension in patients 1 and 2 (flattened pituitary gland in patient 1 and mild enlargement of the inner cerebrospinal fluid spaces in patient 2). Intracranial hypertension, in patient 2 confirmed by lumbar puncture and to a mild degree in patient 1, has not previously been reported in association with pathogenic biallelic variants of KPTN. More than half of the reported patients developed behavioral abnormalities such as repetitive speech, stereotypic movements, hyperactivity, and autistic features (1, 5). Patients 1, 2, and 3 of this study presented similar behavioral problems.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 972,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 51,
+      "content": "More than half of the reported patients developed behavioral abnormalities such as repetitive speech, stereotypic movements, hyperactivity, and autistic features (1, 5). Patients 1, 2, and 3 of this study presented similar behavioral problems. Frontal bossing and prominent chin are the most frequently described facial anomalies in this condition, also present in patients 1 and 2 (frontal bossing) and patient 3 (prominent chin) reported here (5). The heterozygous frameshift variant p.(Ser200Ilefs ∗ 55) found in patient 1 has been reported in two affected families of different populations (4, 5). The second variant, p.(Met241_Gln246dup), detected in patient 1 has been described in a compound heterozygous state in two other affected families and is shown to have a profound effect on kaptin function (1, 3).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 814,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 52,
+      "content": "The heterozygous frameshift variant p.(Ser200Ilefs ∗ 55) found in patient 1 has been reported in two affected families of different populations (4, 5). The second variant, p.(Met241_Gln246dup), detected in patient 1 has been described in a compound heterozygous state in two other affected families and is shown to have a profound effect on kaptin function (1, 3). This in-frame duplication in compound heterozygous status is associated with a wide range of severity from status epilepticus to absence seizures (1, 3). Comparing the data on all published patients, there is no association between a specific mutation in KPTN and the severity of epilepsy. The homozygous KPTN variant c.599 + 1G > A, affecting a splice site, occurred in the unrelated families 2 and 3 of this study but has not been reported previously in the literature. In conclusion, our data expand the phenotypic and mutational spectra of this rare syndrome. We highlight the severe epilepsy phenotype with DEE in two of the five reported children.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 1018,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 53,
+      "content": "In conclusion, our data expand the phenotypic and mutational spectra of this rare syndrome. We highlight the severe epilepsy phenotype with DEE in two of the five reported children. Moreover, we challenge the presence of macrocephaly in all individuals with MRT41 and introduce as a putative feature an increased opening pressure. Mutated components of the protein complex KICSTOR such as KPTN are known to cause hyperactive mTOR signaling (5). The disturbed mTOR signaling opens new therapeutic options for these patients through the application of known mTOR inhibitors. The original contributions presented in the study are publicly available. This data can be found here: [https://www.ncbi.nlm.nih.gov/clinvar/; accession numbers: SCV001334672.11, SCV001747927.6 and SCV002574953.1].",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "3. Discussion",
+        "char_count": 787,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 54,
+      "content": "The original contributions presented in the study are publicly available. This data can be found here: [https://www.ncbi.nlm.nih.gov/clinvar/; accession numbers: SCV001334672.11, SCV001747927.6 and SCV002574953.1]. Written informed consent was obtained from the minor(s)' legal guardian/next of kin for the publication of any potentially identifiable images or data included in this article.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "Data availability statement",
+        "char_count": 391,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 55,
+      "content": "Written informed consent was obtained from the minor(s)' legal guardian/next of kin for the publication of any potentially identifiable images or data included in this article. SH wrote the manuscript and collected the clinical data. MD, FB, and SB performed the molecular and genetic analysis.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7
+        ],
+        "current_heading": "Ethics statement",
+        "char_count": 294,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 56,
+      "content": "SH wrote the manuscript and collected the clinical data. MD, FB, and SB performed the molecular and genetic analysis. NE, CPo, and CPr delivered further clinical data, especially the EEG analysis and EEG results. AK supervised the manuscript.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          7,
+          8
+        ],
+        "current_heading": "Author contributions",
+        "char_count": 242,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 57,
+      "content": "NE, CPo, and CPr delivered further clinical data, especially the EEG analysis and EEG results. AK supervised the manuscript. All authors contributed to the article and approved the submitted version. MD is a participant in the BIH-Charité Clinician Scientist Program funded by the Charité-Universitätsmedizin Berlin and the Berlin Institute of Health (BIH). FB is a participant in the Clinician Scientist Program (CS4RARE) funded by the Alliance4Rare and associated with the BIH Charité Clinician Scientist Program.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Author contributions",
+        "char_count": 515,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 58,
+      "content": "MD is a participant in the BIH-Charité Clinician Scientist Program funded by the Charité-Universitätsmedizin Berlin and the Berlin Institute of Health (BIH). FB is a participant in the Clinician Scientist Program (CS4RARE) funded by the Alliance4Rare and associated with the BIH Charité Clinician Scientist Program. Our research work was supported by the grants from the German Research Foundation (DFG) (grant FOR3004), the Helmholtz Association (HIL-A03), and the Einstein Stiftung Fellowship through the Günter Endres Fond. We thank the patients and their families for their cooperation.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Funding",
+        "char_count": 590,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 59,
+      "content": "We thank the patients and their families for their cooperation. 1. Baple EL, Maroofian R, Chioza BA, Izadi M, Cross HE, Al-Turki S, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Acknowledgments",
+        "char_count": 138,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 60,
+      "content": "1. Baple EL, Maroofian R, Chioza BA, Izadi M, Cross HE, Al-Turki S, et al. Mutations in KPTN cause macrocephaly, neurodevelopmental delay, and seizures. AmJ Hum Genet. (2014) 94:87-94. doi: 10.1016/j.ajhg.2013.10.001 2. Pajusalu S, Reimand T, Õunap K. Novel homozygous mutation in KPTN gene causing a familial intellectual disability-macrocephaly syndrome.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 356,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 61,
+      "content": "2. Pajusalu S, Reimand T, Õunap K. Novel homozygous mutation in KPTN gene causing a familial intellectual disability-macrocephaly syndrome. Am J Med Genet A. (2015) 167:1913-5. doi: 10.1002/ajmg.a.37105 3. Thiffault I, Atherton A, Heese BA, Abdelmoity AT, Pawar K, Farrow E, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 281,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 62,
+      "content": "3. Thiffault I, Atherton A, Heese BA, Abdelmoity AT, Pawar K, Farrow E, et al. Pathogenic variants in KPTN gene identified by clinical whole-genome sequencing. Cold Spring Harb Mol Case Stud. (2020) 6:a003970. doi: 10.1101/mcs.a003970 4. Lucena PH, Armani-Franceschi G, Bispo-Torres AC, Bandeira ID, Lucena MFG, Maldonado I, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 331,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 63,
+      "content": "4. Lucena PH, Armani-Franceschi G, Bispo-Torres AC, Bandeira ID, Lucena MFG, Maldonado I, et al. KPTN gene homozygous variant-related syndrome in the northeast of Brazil: a case report. Am J Med Genet A. (2020) 182:7627. doi: 10.1002/ajmg.a.61492 5. Pacio Miguez M, Santos-Simarro F, García-Miñaúr S, Velázquez Fragua R, del Pozo Á, Solís M, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 348,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 64,
+      "content": "5. Pacio Miguez M, Santos-Simarro F, García-Miñaúr S, Velázquez Fragua R, del Pozo Á, Solís M, et al. Pathogenic variants in KPTN, a rare cause of macrocephaly and intellectual disability . Am J Med Genet A. (2020) 182:22225. doi: 10.1002/ajmg.a.61778 6. Wolfson RL, Chantranupong L, Wyant GA, Gu X, Orozco JM, Shen K, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 325,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 65,
+      "content": "6. Wolfson RL, Chantranupong L, Wyant GA, Gu X, Orozco JM, Shen K, et al. KICSTOR recruits GATOR1 to the lysosome and is necessary for nutrients to regulate mTORC1. Nature. (2017) 543:438-42. doi: 10.1038/nature21423 7. Becker LL, Wei β C, Tietze A, Martiny V, Kaindl AM.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 271,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 66,
+      "content": "7. Becker LL, Wei β C, Tietze A, Martiny V, Kaindl AM. Lumbar puncture opening pressure in patients with spinal muscular SB and JJ were employed by Praxis für Humangenetik Tübingen.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "References",
+        "char_count": 181,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 67,
+      "content": "SB and JJ were employed by Praxis für Humangenetik Tübingen. The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Conflict of interest",
+        "char_count": 243,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 68,
+      "content": "The remaining authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest. All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Conflict of interest",
+        "char_count": 529,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 69,
+      "content": "All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher. The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/ fneur.2022.1113811/full#supplementary-material atrophy. Neuropediatrics.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Publisher's note",
+        "char_count": 533,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 70,
+      "content": "The Supplementary Material for this article can be found online at: https://www.frontiersin.org/articles/10.3389/ fneur.2022.1113811/full#supplementary-material atrophy. Neuropediatrics. (2021) 52:219-23. doi: 10.1055/s-00401722687 8. Avery RA.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 244,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 71,
+      "content": "8. Avery RA. Reference range of cerebrospinal fluid opening pressure in children: Historical overview and current data. Neuropediatrics . (2014) 45:20611. doi: 10.1055/s-0034-1376202 9. Karczewski KJ, Francioli LC, Tiao G, Cummings BB, Alföldi J, Wang Q, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 261,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 72,
+      "content": "9. Karczewski KJ, Francioli LC, Tiao G, Cummings BB, Alföldi J, Wang Q, et al. Author correction: the mutational constraint spectrum quantified from variation in 141,456 humans. Nature. (2021) 590:E53-E53. doi: 10.1530/ey.17.14.3 10. Holtgrewe M, Stolpe O, Nieminen M, Mundlos S, Knaus A, Kornak U, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 305,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 73,
+      "content": "10. Holtgrewe M, Stolpe O, Nieminen M, Mundlos S, Knaus A, Kornak U, et al. VarFish: comprehensive DNA variant analysis for diagnostics and research. Nucleic Acids Res. (2020) 48:W162-9. doi: 10.1093/nar/gkaa241 11. Adzhubei IA, Schmidt S, Peshkin L, Ramensky VE, Gerasimova A, Bork P, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 292,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 74,
+      "content": "11. Adzhubei IA, Schmidt S, Peshkin L, Ramensky VE, Gerasimova A, Bork P, et al. A method and server for predicting damaging missense mutations. Nat Methods. (2010) 7:248-9. doi: 10.1038/nmeth0410-248 12. Kumar P, Henikoff S, Ng PC.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 232,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 75,
+      "content": "12. Kumar P, Henikoff S, Ng PC. Predicting the effects of coding nonsynonymous variants on protein function using the SIFT algorithm. Nat Protoc. (2009) 4:1073-82. doi: 10.1038/nprot.2009.86 13. Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, et al.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 262,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 76,
+      "content": "13. Richards S, Aziz N, Bale S, Bick D, Das S, Gastier-Foster J, et al. Standards and guidelines for the interpretation of sequence variants: a joint consensus recommendation of the American college of medical genetics and genomics and the association for molecular pathology. Genetics in Medicine. (2015) 17:40524. doi: 10.1038/gim.2015.30",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          8
+        ],
+        "current_heading": "Supplementary material",
+        "char_count": 340,
+        "mod_date": "2023-01-05T15:47:59"
+      }
+    },
+    {
+      "chunk_id": 77,
+      "content": "**1. Table Title/Caption:**\nThe table is titled \"TABLE 1 Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\" **2. Table Purpose:**\nThis table presents a comprehensive comparative analysis of demographic information, anthropometric measurements, and neurodevelopmental phenotypes, including epilepsy characteristics, for five newly identified patients with *KPTN* gene-related syndrome. It also aggregates and compares these findings with data from 15 previously reported patients in existing literature to provide broader context and identify common patterns. **3. Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\"",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 1/12)",
+        "char_count": 996,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 78,
+      "content": "Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\" The general patient information rows include:\n*   \"Origin\": The geographical origin of the patient. *   \"Sex\": The biological sex of the patient. *   \"Age at evaluation\": The age of the patient at the time of evaluation. *   \"Genotype in KPTN\": Details the specific genetic variant(s) identified in the *KPTN* gene. *   \"ACMG classification\": The American College of Medical Genetics and Genomics classification regarding the pathogenicity of the identified genotype. The \"Anthropometric data\" section includes rows for:\n*   \"Head circumference (SD) at birth\": The patient's head circumference at birth, reported with standard deviation (SD).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 2/12)",
+        "char_count": 999,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 79,
+      "content": "*   \"ACMG classification\": The American College of Medical Genetics and Genomics classification regarding the pathogenicity of the identified genotype. The \"Anthropometric data\" section includes rows for:\n*   \"Head circumference (SD) at birth\": The patient's head circumference at birth, reported with standard deviation (SD). *   \"Head circumference at last evaluation (SD)\": The patient's head circumference at their last evaluation, reported with standard deviation (SD). *   \"Weight at last evaluation (SD)\": The patient's body weight at their last evaluation, reported with standard deviation (SD). *   \"Height at last evaluation (SD)\": The patient's height at their last evaluation, reported with standard deviation (SD). *   \"Dysmorphic facial features\": Descriptions of any unusual facial characteristics observed.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 3/12)",
+        "char_count": 822,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 80,
+      "content": "*   \"Height at last evaluation (SD)\": The patient's height at their last evaluation, reported with standard deviation (SD). *   \"Dysmorphic facial features\": Descriptions of any unusual facial characteristics observed. The \"Neurodevelopmental phenotype and epilepsy\" section contains rows for:\n*   \"Developmental delay/Intellectual disability\": Indicates the presence or absence of developmental delay or intellectual disability, sometimes including IQ ranges. *   \"Behavioral abnormalities\": Descriptions of any noted behavioral issues. *   \"Epilepsy\": Indicates the presence or absence of epilepsy and, if present, the type of seizures. *   \"Onset of seizures in years\": The age at which seizures first began. *   \"EEG findings\": Results from electroencephalography. *   \"MRI findings\": Results from magnetic resonance imaging. **4. Table Data:**\n\n**Patient Demographics and Genetics:**\nPatient 1 originated from Germany, is male, and was 6 years old at evaluation.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 4/12)",
+        "char_count": 967,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 81,
+      "content": "**4. Table Data:**\n\n**Patient Demographics and Genetics:**\nPatient 1 originated from Germany, is male, and was 6 years old at evaluation. His genotype in *KPTN* included two pathogenic duplications: c.597_598dupTA (p.Ser200Ilefs*55) and c.714_731dup (p.Met241_Gln246dup). Patient 2, an Afghani male evaluated at 16 months, had a homozygous c.599+1G>A mutation, classified as pathogenic. Patient 3, a female from Syria, was 13 years old at evaluation and also presented with a homozygous c.599+1G>A pathogenic mutation. Patient 4, a male from Syria, was evaluated at 9 years and carried the same homozygous c.599+1G>A pathogenic mutation. Similarly, Patient 5, a male from Syria, was 6 years old at evaluation and also had a homozygous c.599+1G>A pathogenic mutation. The data from literature, encompassing 15 patients, reported 8 males and 7 females. Specific origins, ages at evaluation, genotypes, and ACMG classifications for the literature cases were not provided.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 5/12)",
+        "char_count": 968,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 82,
+      "content": "The data from literature, encompassing 15 patients, reported 8 males and 7 females. Specific origins, ages at evaluation, genotypes, and ACMG classifications for the literature cases were not provided. **Anthropometric Data:**\nPatient 1's head circumference at birth was 34.5 cm (+0.1 SD) at the 40th week, increasing to 55 cm (+2.2 SD) at the last evaluation. His weight was 19 kg (–1 SD) and height was 112.5 cm (–1.2 SD) at last evaluation. Patient 2's head circumference at birth was 31 cm (–0.2 SD) at the 33rd week, and 48 cm (+0.02 SD) at last evaluation. His weight was 8.7 kg (–1.7 SD) and height was 78 cm (–0.8 SD) at last evaluation. Patient 3 and Patient 4 did not have head circumference data available. Patient 3's weight was 40 kg (–1.1 SD) and height was 150 cm (–1.3 SD). Patient 4's weight was 30 kg (–0.1 SD) and height was 128 cm (1.4 SD). For Patient 5, all anthropometric data (head circumference at birth and last evaluation, weight, and height at last evaluation) were not available.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 6/12)",
+        "char_count": 1008,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 83,
+      "content": "Patient 4's weight was 30 kg (–0.1 SD) and height was 128 cm (1.4 SD). For Patient 5, all anthropometric data (head circumference at birth and last evaluation, weight, and height at last evaluation) were not available. For the 15 literature cases, macrocephaly was reported in 45% at birth and in 100% at the last evaluation; weight and height data were not available. Regarding dysmorphic facial features, Patient 1 and Patient 2 both exhibited frontal bossing. Patient 3 presented with a prominent chin. Patient 4 had no specific features indicated, and data was not available for Patient 5. In the literature data, frontal bossing was present in 100% of cases, and a prominent chin was noted in 73% of cases. **Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30–50, while Patient 4 and Patient 5 each had an IQ of 50–70.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 7/12)",
+        "char_count": 944,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 84,
+      "content": "**Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30–50, while Patient 4 and Patient 5 each had an IQ of 50–70. All 100% of the literature cases also showed developmental delay or intellectual disability. In terms of behavioral abnormalities, Patient 1 exhibited repetitive movements, autistic features, and stereotypic movements. Patient 2 displayed stereotypic movements, and Patient 3 had general behavioral abnormalities. Behavioral abnormalities were not documented for Patient 4 and Patient 5. In the literature, 33% of patients had behavioral abnormalities. Epilepsy was present in Patient 1, characterized by generalized tonic-clonic seizures (GTCS), and in Patient 2, also with GTCS. Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 8/12)",
+        "char_count": 1017,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 85,
+      "content": "Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS. The onset of seizures for Patient 1 was at 5 years of age, and for Patient 2, it was at 13 months. The literature cases reported seizure onset ranging from 3 months to 7 years. EEG findings for Patient 1 included epileptic discharges and focal slow activity in the frontal region. Patient 2's EEG showed fronto-temporal sharp-wave complexes on the left side. EEG findings were not documented for Patient 3, Patient 4, and Patient 5, and were not available for the literature data. MRI findings for Patient 1 revealed optical nerve tortuosity and a flat pituitary gland. Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 9/12)",
+        "char_count": 955,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 86,
+      "content": "Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5. In the literature, 50% of patients presented with different brain abnormalities. **5. Key Findings:**\nA significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature is the presence of developmental delay or intellectual disability. Macrocephaly at the last evaluation was universally reported in 100% of literature cases. Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5).",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 10/12)",
+        "char_count": 921,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 87,
+      "content": "Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5). Epilepsy was noted in two of the five novel patients (Patient 1 and 2, both with GTCS) and in 33% of literature cases, with seizure onset ranging from infancy to early childhood. While Patient 3's MRI was normal, other novel patients and 50% of literature cases showed various brain abnormalities, highlighting a spectrum of neurological involvement. **6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references.",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 11/12)",
+        "char_count": 915,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    },
+    {
+      "chunk_id": 88,
+      "content": "**6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references. Abbreviations used within the table are explained as follows: \"ND\" stands for \"not documented,\" \"NA\" for \"not available,\" \"GTCSs\" for \"generalized tonic-clonic seizures,\" and \"ASs\" for \"absence seizures.\"",
+      "metadata": {
+        "source": "Horn.pdf",
+        "title": "Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy",
+        "authors": [
+          "Svea Horn"
+        ],
+        "page": [
+          4
+        ],
+        "current_heading": "Table from page 4 (part 12/12)",
+        "char_count": 412,
+        "mod_date": "D:20230105154759+05'30'"
+      }
+    }
+  ]
+}

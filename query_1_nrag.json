@@ -1,0 +1,36 @@
+{
+    "query": "What clinical conclusions do the authors draw about the variability of macrocephaly in KPTN syndrome, and how does this study modify previous assumptions?",
+    "chunks": [
+        {
+            "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.9312227964401245
+        },
+        {
+            "content": "Biallelic variants in the kaptin gene KPTN were identified recently in individuals with a novel syndrome referred to as autosomal recessive intellectual developmental disorder 41 (MRT41). MRT41 is characterized by developmental delay, predominantly in language development, behavioral abnormalities, and epilepsy. Only about 15 affected individuals have been described in the literature, all with primary or secondary macrocephaly. Using exome sequencing, we identified three different biallelic variants in KPTN in five affected individuals from three unrelated families. In total, two KPTN variants were already reported as a loss of function variants. A novel splice site variant in KPTN was detected in two unrelated families of this study. The core phenotype with neurodevelopment delay was present in all patients. However, macrocephaly was not present in at least one patient.",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.8723368644714355
+        },
+        {
+            "content": "1. Baple EL, Maroofian R, Chioza BA, Izadi M, Cross HE, Al-Turki S, et al. Mutations in KPTN cause macrocephaly, neurodevelopmental delay, and seizures. AmJ Hum Genet. (2014) 94:87-94. doi: 10.1016/j.ajhg.2013.10.001 2. Pajusalu S, Reimand T, Õunap K. Novel homozygous mutation in KPTN gene causing a familial intellectual disability-macrocephaly syndrome.",
+            "source": "Horn.pdf",
+            "page": "[8]",
+            "score": 0.6813016533851624
+        },
+        {
+            "content": "However, macrocephaly was not present in at least one patient. In total, two patients exhibited developmental and epileptic encephalopathies with generalized tonic-clonic seizures that were drug-resistant in one of them. Thus, we further delineate the KPTN -related syndrome, especially emphasizing the severity of epilepsy phenotypes and difficulties in treatment in patients of our cohort. KPTN gene, macrocephaly, neurodevelopment delay, epilepsy, splice site variant",
+            "source": "Horn.pdf",
+            "page": "[1]",
+            "score": 0.663012683391571
+        },
+        {
+            "content": "described so far. MRT41 was first identified in four consanguineous families of the Amish community of Ohio in 2014 (1). All affected individuals in this study presented with macrocephaly and neurodevelopmental delay, and onethird developed epilepsy with the absence of seizures and generalized tonic-clonic seizures. Using microsatellite-marker analysis followed by whole exome sequencing (WES), the homozygous truncating variant p.(Ser259 ∗ ) in the KPTN gene (NM_007059.4) was discovered in two families of this study (1). In the two other families of this study, the above-mentioned nonsense variant was detected in a compound heterozygous state with an in-frame duplication p.(Met241_246Glndup). This duplication of the six amino acids was predicted to disrupt the alpha-helix 4 of the protein.",
+            "source": "Horn.pdf",
+            "page": "[2]",
+            "score": 0.6393898725509644
+        }
+    ],
+    "summary": "The authors' clinical conclusion about the variability of macrocephaly in KPTN syndrome is that it \"does not occur in all patients with this syndrome\" and that \"macrocephaly was not present in at least one patient\" in their cohort.\n\nThis study modifies previous assumptions by demonstrating that macrocephaly is not a universally consistent feature of KPTN syndrome. Previously, severe developmental delay and primary, or more frequently secondary, macrocephaly were reported as \"consistent features in 14/14 published affected individuals\" and \"all\" of the approximately 15 affected individuals described in the literature, including the individuals in the study that first identified MRT41 in 2014, presented with macrocephaly. The current study's data, showing a lack of macrocephaly in one patient, indicates that it is not present in all individuals with the syndrome."
+}
