@@ -101,7 +101,7 @@ def retrieve_from_weaviate(query_text, top_k=5, alpha=0.5):
 
 if __name__ == "__main__":
     # Hardcoded query as requested
-    QUERY = "What is KPTN syndrome"
+    QUERY = "What are the common features associated with people suffering from KPTN Syndrome?"
     
     if len(sys.argv) > 1:
         QUERY = " ".join(sys.argv[1:])

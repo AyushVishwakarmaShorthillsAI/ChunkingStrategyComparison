@@ -1,0 +1,66 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "results": [
+        {
+            "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.6766959428787231
+        },
+        {
+            "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.6631582975387573
+        },
+        {
+            "content": "**1. Table Title/Caption**\nThe table is titled \"Clinical manifestations of KPTN gene variation reported in the literature.\" **2. Table Purpose**\nThis table provides a comparative overview of clinical features and associated *KPTN* gene variants across different studies, including the current report, thereby detailing the phenotypic spectrum of *KPTN* gene variation in affected individuals. It presents data from four distinct reports to illustrate the consistency and variability of symptoms linked to this genetic condition. **3. Table Structure**\nThe table is structured with the first column listing various phenotypes or clinical characteristics. The subsequent four columns each represent data from a specific study: \"Baple et al., 2014,\" \"Pajusalu et al., 2015,\" \"Thiffault et al., 2018,\" and the \"Current report.\" For each study, information is provided on the number of subjects, their gender, and the specific *KPTN* gene variants identified.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.5243224501609802
+        },
+        {
+            "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5127604007720947
+        },
+        {
+            "content": "These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis. NFIX-related Malan syndrome (OMIM 614753), associated with the NFIX gene and Autosomal Dominant (AD) inheritance, shares overlapping features like behavioral issues (specifically an anxious profile and ADHD), downslanted palpebral fissures, hypotonia, ocular issues (including strabismus and nystagmus), and ventriculomegaly. No specific distinguishing features are listed for NFIX-related Malan syndrome in this table.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5110540390014648
+        },
+        {
+            "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+            "source": "Rawlins.pdf",
+            "page": "[7]",
+            "score": 0.5
+        },
+        {
+            "content": "The diagnosis of KPTN -related disorder is established in a proband with suggestive findings and biallelic pathogenic variants in KPTN identified by molecular genetic testing. Treatment of manifestations: Developmental and educational support; standard management for behavioral and psychiatric manifestations; standard treatment with anti-seizure medications by an experienced neurologist; pressure-equalizing tubes and/or tonsillectomy and/or adenoidectomy as needed for recurrent upper respiratory tract infections; standard treatment for ophthalmologic involvement; standard treatment for endocrine manifestations; treatment of skeletal manifestations per orthopedist; social work support and care coordination as needed.",
+            "source": "Rawlins.pdf",
+            "page": "[1]",
+            "score": 0.5
+        },
+        {
+            "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+            "source": "Rawlins.pdf",
+            "page": "[4]",
+            "score": 0.49071067571640015
+        },
+        {
+            "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.4821510910987854
+        },
+        {
+            "content": "**Table Title/Caption**:\nThis table is titled \"Table 3. continued from previous page,\" and its content is focused on \"Selected Features of Disorder.\" **Table Purpose**:\nThis table presents a comparative analysis of various genetic disorders by listing their associated gene, mode of inheritance, clinical features that overlap with KPTN-related disorders (beyond macrocephaly and intellectual disability/developmental delay), and specific features that help distinguish them from KPTN-related disorders. It serves as a guide for differential diagnosis. **Table Structure**:\nThe table is organized into five columns:\n1. **Gene**: This column identifies the specific gene associated with the listed disorder. 2. **Disorder**: This column names the particular genetic disorder, often including its OMIM (Online Mendelian Inheritance in Man) number for precise identification. 3.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.4538941979408264
+        }
+    ]
+}

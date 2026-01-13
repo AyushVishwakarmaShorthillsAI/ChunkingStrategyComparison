@@ -1,0 +1,66 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "model": "BIaoo/lca-qwen3-embedding",
+    "results": [
+        {
+            "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+            "source": "Rawlins.pdf",
+            "page": "[7]",
+            "score": 0.5
+        },
+        {
+            "content": "No clinical practice guidelines for KPTN -related disorder have been published. To establish the extent of disease and needs in an individual diagnosed with KPTN -related disorder, the evaluations summarized in Table 4 (if not performed as part of the evaluation that led to the diagnosis) are recommended.",
+            "source": "Rawlins.pdf",
+            "page": "[9]",
+            "score": 0.5
+        },
+        {
+            "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.4985881745815277
+        },
+        {
+            "content": "Despite the fact that KPTN has been considered a candidate gene for hearing loss (Bearer and Abraham 1999), none of the reported patients with KPTN-related syndrome had hearing loss (0/15). All these findings suggest that a variable phenotypic spectrum should be expected in patients with KPTN alterations, and that seizures (33%), behavioral problems (80%), craniosynostosis (33%), and brain changes in MRI (50%) might be not fully penetrant features of this condition. However, the actual prevalence and significance of these features require further research. Clinical data from larger series of patients would allow the description of the clinical spectrum associated with KPTN-related disease to be completed. While the first nine patients described by Baple et al. (2014) belonged to four related families from an Anabaptist community of Ohio, there was no evidence of consanguinity in the family history of",
+            "source": "Miguez.pdf",
+            "page": "[1]",
+            "score": 0.4150698184967041
+        },
+        {
+            "content": "KPTN -related disorder is characterized by mild-to-profound intellectual disability, developmental delay, neurobehavioral/psychiatric manifestations (including anxiety and findings associated with autism spectrum disorder such as stereotypies, hyperactivity, repetitive speech, and impaired social communication), postnatal progressive macrocephaly, and seizures. To date, 54 individuals from 32 families have been identified with biallelic pathogenic variants in KPTN [Baple et al 2014, Pajusalu et al 2015, Lucena et al 2020, Pacio Miguez et al 2020, Thiffault et al 2020, Horn et al 2023, Levitin et al 2023, Liaqat et al 2023]. The following description of the phenotypic features associated with this condition is based on these reports. Baple et al [2014]; Pajusalu et al [2015]; Lucena et al [2020]; Pacio Miguez et al [2020]; Thiffault et al [2020]; Horn et al [2023]; Levitin et al [2023]; Liaqat et al [2023]; E Baple, unpublished data",
+            "source": "Rawlins.pdf",
+            "page": "[4, 5]",
+            "score": 0.3957158923149109
+        },
+        {
+            "content": "Medical geneticist, certified genetic counselor, certified advanced genetic nurse There is currently no cure for KPTN -related disorder. Supportive care to improve quality of life, maximize function, and reduce complications is recommended.",
+            "source": "Rawlins.pdf",
+            "page": "[10]",
+            "score": 0.38751789927482605
+        },
+        {
+            "content": "Although our patients did not present behavioral, endocrinological or metabolic alterations, or seizures at the time of this study, they are still fairly young and these aspects need to be followed up closely. Despite the fact that KPTN has been considered a candidate gene for hearing loss (Bearer and Abraham 1999), none of the reported patients with KPTN-related syndrome had hearing loss (0/15). All these findings suggest that a variable phenotypic spectrum should be expected in patients with KPTN alterations, and that seizures (33%), behavioral problems (80%), craniosynostosis (33%), and brain changes in MRI (50%) might be not fully penetrant features of this condition.",
+            "source": "Miguez.pdf",
+            "page": "[1]",
+            "score": 0.37011444568634033
+        },
+        {
+            "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+            "source": "Rawlins.pdf",
+            "page": "[4]",
+            "score": 0.3685450553894043
+        },
+        {
+            "content": "NFIX-related Malan syndrome (OMIM 614753), associated with the NFIX gene and Autosomal Dominant (AD) inheritance, shares overlapping features like behavioral issues (specifically an anxious profile and ADHD), downslanted palpebral fissures, hypotonia, ocular issues (including strabismus and nystagmus), and ventriculomegaly. No specific distinguishing features are listed for NFIX-related Malan syndrome in this table. PPP2R5D-related neurodevelopmental disorder, caused by the PPP2R5D gene and inherited as Autosomal Dominant (AD), presents overlapping features such as Autism Spectrum Disorder (ASD), hypertelorism, seizures, and tone abnormalities. Hypotonic facies are identified as a distinguishing feature for this disorder. Two disorders are associated with the PTEN gene, both inherited in an Autosomal Dominant (AD) manner. The first, PTEN hamartoma tumor syndrome, overlaps with KPTN-related disorders through features like Autism Spectrum Disorder (ASD), scoliosis, and pectus excavatum.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.36823949217796326
+        },
+        {
+            "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.36706840991973877
+        }
+    ]
+}

@@ -1,0 +1,66 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "model": "sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
+    "results": [
+        {
+            "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+            "source": "Rawlins.pdf",
+            "page": "[7]",
+            "score": 0.9221075177192688
+        },
+        {
+            "content": "These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis. NFIX-related Malan syndrome (OMIM 614753), associated with the NFIX gene and Autosomal Dominant (AD) inheritance, shares overlapping features like behavioral issues (specifically an anxious profile and ADHD), downslanted palpebral fissures, hypotonia, ocular issues (including strabismus and nystagmus), and ventriculomegaly. No specific distinguishing features are listed for NFIX-related Malan syndrome in this table.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.7206621170043945
+        },
+        {
+            "content": "This disorder overlaps with KPTN-related disorder through shared features such as Autism Spectrum Disorder (ASD), downslanted palpebral fissures, and seizures, in addition to macrocephaly, intellectual disability, and developmental delay. Features that distinguish CHD8-related neurodevelopmental disorder from KPTN-related disorder include gastrointestinal issues, such as recurrent constipation which may include periods of diarrhea, and developmental regression of social, speech, and/or motor skills observed during infancy and early childhood. Regarding the FMR1 gene, the associated disorder is Fragile X syndrome, which has an X-linked (XL) mode of inheritance. Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay.",
+            "source": "Rawlins.pdf",
+            "page": "[7]",
+            "score": 0.6188800930976868
+        },
+        {
+            "content": "**Key Findings**:\n\nA notable pattern across the listed disorders is the prevalence of Autosomal Dominant (AD) inheritance, with only the STRADA-related Polyhydramnios megalencephaly & symptomatic epilepsy showing an Autosomal Recessive (AR) pattern. Many disorders share common overlapping features with KPTN-related conditions, particularly facial features like frontal bossing and downslanted palpebral fissures, hypotonia, seizures, and ventriculomegaly. Autism Spectrum Disorder (ASD) is also a frequently recurring overlapping feature, observed in PPP2R5D, both PTEN-related conditions, and SETD2-related disorder. The presence of specific distinguishing features is crucial for accurate diagnosis, such as skin pigmentary abnormalities for Smith-Kingsmore syndrome, generalized overgrowth for Sotos syndrome, and cancer predisposition for PTEN hamartoma tumor syndrome.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5925588011741638
+        },
+        {
+            "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5816078186035156
+        },
+        {
+            "content": "KPTN -related disorder is characterized by mild-to-profound intellectual disability, developmental delay, neurobehavioral/psychiatric manifestations (including anxiety and findings associated with autism spectrum disorder such as stereotypies, hyperactivity, repetitive speech, and impaired social communication), postnatal progressive macrocephaly, and seizures. To date, 54 individuals from 32 families have been identified with biallelic pathogenic variants in KPTN [Baple et al 2014, Pajusalu et al 2015, Lucena et al 2020, Pacio Miguez et al 2020, Thiffault et al 2020, Horn et al 2023, Levitin et al 2023, Liaqat et al 2023]. The following description of the phenotypic features associated with this condition is based on these reports. Baple et al [2014]; Pajusalu et al [2015]; Lucena et al [2020]; Pacio Miguez et al [2020]; Thiffault et al [2020]; Horn et al [2023]; Levitin et al [2023]; Liaqat et al [2023]; E Baple, unpublished data",
+            "source": "Rawlins.pdf",
+            "page": "[4, 5]",
+            "score": 0.565335750579834
+        },
+        {
+            "content": "Two disorders are associated with the PTEN gene, both inherited in an Autosomal Dominant (AD) manner. The first, PTEN hamartoma tumor syndrome, overlaps with KPTN-related disorders through features like Autism Spectrum Disorder (ASD), scoliosis, and pectus excavatum. Its distinguishing features are a predisposition to cancer, dermatologic features including skin tags and papules, and hamartomatous tumors. The second PTEN-related disorder is Autism/pervasive developmental disorder & macrocephaly (OMIM 605309). This disorder shares overlapping features such as Autism Spectrum Disorder (ASD), a depressed nasal bridge, frontal bossing, hepatomegaly/splenomegaly, and recurrent infections. It is distinguished by hypogammaglobulinemia. SETD2-related neurodevelopmental disorder \u00b1 macrocephaly/overgrowth, associated with the SETD2 gene and Autosomal Dominant (AD) inheritance, shares several overlapping features with KPTN-related disorders.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5609726905822754
+        },
+        {
+            "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.5426738262176514
+        },
+        {
+            "content": "For the gene **TRIO**, the associated disorder is \"TRIO-related neurodevelopmental disorder.\" The mode of inheritance is autosomal dominant (AD). Features that overlap with KPTN-related disorder include autism spectrum disorder (ASD), downslanted palpebral fissures, frontal bossing, seizures, and stereotypies. A key feature distinguishing TRIO-related neurodevelopmental disorder from KPTN-related disorder is \"Poor growth.\" **Key Findings:** This table highlights that both SZT2-related early infantile epileptic encephalopathy 18 and TRIO-related neurodevelopmental disorder share several common neurological and craniofacial features with KPTN-related disorder, such as frontal bossing and seizures. SZT2-related disorder is autosomal recessive and presents with a range of structural brain and facial anomalies, while TRIO-related disorder is autosomal dominant, often involving autism spectrum disorder and stereotypies, and is notably distinguished by poor growth.",
+            "source": "Rawlins.pdf",
+            "page": "[9]",
+            "score": 0.515005350112915
+        },
+        {
+            "content": "KPTN -related disorder is characterized by mild-to-profound intellectual disability, global developmental delay, neurobehavioral/psychiatric manifestations (anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication), hypotonia, postnatal and progressive macrocephaly, and seizures. Generalized megalencephaly is often present on brain imaging. Some individuals have recurrent infections, conductive hearing impairment, strabismus, nystagmus, ketotic hypoglycemia, thyroid dysfunction, and/or mild skeletal manifestations. The diagnosis of KPTN -related disorder is established in a proband with suggestive findings and biallelic pathogenic variants in KPTN identified by molecular genetic testing.",
+            "source": "Rawlins.pdf",
+            "page": "[1]",
+            "score": 0.5
+        }
+    ]
+}

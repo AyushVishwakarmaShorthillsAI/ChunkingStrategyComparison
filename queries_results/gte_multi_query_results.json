@@ -1,0 +1,165 @@
+{
+    "model": "Alibaba-NLP/gte-multilingual-base",
+    "total_queries": 3,
+    "queries": [
+        {
+            "query": "Common features in people suffering from KPTN Syndrome and their percentage",
+            "results": [
+                {
+                    "content": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.8096553087234497
+                },
+                {
+                    "content": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.7618967890739441
+                },
+                {
+                    "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.733363151550293
+                },
+                {
+                    "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.6825709342956543
+                },
+                {
+                    "content": "**Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound. Developmental delay affects 93% of individuals. Neurobehavioral/psychiatric manifestations are observed in 84% of persons, encompassing features such as anxiety, stereotypies, impaired social interactions, and repetitive speech. Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.6464495062828064
+                },
+                {
+                    "content": "Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics. **Context:**\nThe data presented in this table is compiled from several research sources, including Baple et al [2014], Pajusalu et al [2015], Lucena et al [2020], Pacio Miguez et al [2020], Thiffault et al [2020], Horn et al [2023], Levitin et al [2023], Liaqat et al [2023], and unpublished data from E. Baple. This indicates a multi-source synthesis of clinical observations for KPTN-Related Disorder.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.6171302199363708
+                },
+                {
+                    "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.56443190574646
+                },
+                {
+                    "content": "**1. Table Title/Caption**\nThe table is titled \"Clinical manifestations of KPTN gene variation reported in the literature.\" **2. Table Purpose**\nThis table provides a comparative overview of clinical features and associated *KPTN* gene variants across different studies, including the current report, thereby detailing the phenotypic spectrum of *KPTN* gene variation in affected individuals. It presents data from four distinct reports to illustrate the consistency and variability of symptoms linked to this genetic condition. **3. Table Structure**\nThe table is structured with the first column listing various phenotypes or clinical characteristics. The subsequent four columns each represent data from a specific study: \"Baple et al., 2014,\" \"Pajusalu et al., 2015,\" \"Thiffault et al., 2018,\" and the \"Current report.\" For each study, information is provided on the number of subjects, their gender, and the specific *KPTN* gene variants identified.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.5515501499176025
+                }
+            ]
+        },
+        {
+            "query": "List of the most common facial and developmental features exhibited by individuals with KPTN Syndrome with percentages",
+            "results": [
+                {
+                    "content": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.7145555019378662
+                },
+                {
+                    "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.6082777976989746
+                },
+                {
+                    "content": "Table Data**\n\n**Summary of Studies and KPTN Variants:**\nThe study by Baple et et al., 2014 involved nine subjects, comprising six males and three females, who exhibited *KPTN* variants identified as NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.776C>A (p.Ser259Ter). Pajusalu et al., 2015 reported on two subjects, one male and one female, with the *KPTN* variant NM_007059.4:c.665dup (p.Ser223fs). Thiffault et al., 2018 studied a single male subject, whose *KPTN* variants included NM_007059.4:c.714_731dup (p.Met241_Gln246dup) and NM_007059.4:c.394+1G>A. The current report describes a single female subject with the *KPTN* variant NM_007059.2:c.597_598dup (p.Ser200IlefsTer55). **Common Clinical Manifestations Across Studies:**\nSeveral clinical features were consistently observed across all four reports. Macrocephaly, frontal bossing, and stomatognathic alteration were present in all subjects or groups studied by Baple et al., Pajusalu et al., Thiffault et al., and the current report.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.569326639175415
+                },
+                {
+                    "content": "The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons. The types of seizures reported include generalized tonic-clonic, absence, and focal or complex partial seizures. Characteristic craniofacial features are highly prevalent, affecting 84% of individuals. Specifically, 84% of affected persons demonstrate frontal bossing along with at least one additional feature. These additional craniofacial features encompass short downslanted palpebral fissures, hypertelorism, a depressed nasal bridge, a broad nasal tip, a tall and broad chin, and a thick vermilion of the lower lip. Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.5421868562698364
+                },
+                {
+                    "content": "**Key Findings**:\n\nA notable pattern across the listed disorders is the prevalence of Autosomal Dominant (AD) inheritance, with only the STRADA-related Polyhydramnios megalencephaly & symptomatic epilepsy showing an Autosomal Recessive (AR) pattern. Many disorders share common overlapping features with KPTN-related conditions, particularly facial features like frontal bossing and downslanted palpebral fissures, hypotonia, seizures, and ventriculomegaly. Autism Spectrum Disorder (ASD) is also a frequently recurring overlapping feature, observed in PPP2R5D, both PTEN-related conditions, and SETD2-related disorder. The presence of specific distinguishing features is crucial for accurate diagnosis, such as skin pigmentary abnormalities for Smith-Kingsmore syndrome, generalized overgrowth for Sotos syndrome, and cancer predisposition for PTEN hamartoma tumor syndrome.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.5372811555862427
+                },
+                {
+                    "content": "Regarding dysmorphic facial features, Patient 1 and Patient 2 both exhibited frontal bossing. Patient 3 had a prominent chin, while Patient 4 did not have documented dysmorphic facial features. Data for Patient 5 was not available. From the literature, frontal bossing was present in 100% of patients, and a prominent chin in 73%. **Neurodevelopmental Phenotype and Epilepsy**:\nDevelopmental delay or intellectual disability was observed in all five novel patients, with Patient 3 having an IQ of 30\u201350, and Patients 4 and 5 having an IQ of 50\u201370. This condition was present in 100% of the reported literature cases. Patient 1 displayed repetitive movements, autistic features, and stereotypic movements, while Patient 2 exhibited stereotypic movements. Patient 3 had unspecified behavioral abnormalities. Behavioral abnormalities were not documented for Patients 4 and 5. In the literature, behavioral abnormalities were noted in 33% of cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.5121860504150391
+                },
+                {
+                    "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.49189555644989014
+                },
+                {
+                    "content": "Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics. **Context:**\nThe data presented in this table is compiled from several research sources, including Baple et al [2014], Pajusalu et al [2015], Lucena et al [2020], Pacio Miguez et al [2020], Thiffault et al [2020], Horn et al [2023], Levitin et al [2023], Liaqat et al [2023], and unpublished data from E. Baple. This indicates a multi-source synthesis of clinical observations for KPTN-Related Disorder.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.44946175813674927
+                }
+            ]
+        },
+        {
+            "query": "Uncommon features in people with KPTN Syndrome and their percentage",
+            "results": [
+                {
+                    "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.8632626533508301
+                },
+                {
+                    "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.8461406230926514
+                },
+                {
+                    "content": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.8025550842285156
+                },
+                {
+                    "content": "**Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound. Developmental delay affects 93% of individuals. Neurobehavioral/psychiatric manifestations are observed in 84% of persons, encompassing features such as anxiety, stereotypies, impaired social interactions, and repetitive speech. Hypotonia is reported in 55% of individuals. Macrocephaly affects 49% of persons and is characterized as postnatal and progressive, with its onset occurring within the first year of life.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.6968778371810913
+                },
+                {
+                    "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.6852566003799438
+                },
+                {
+                    "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.5930269956588745
+                },
+                {
+                    "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.5739210844039917
+                },
+                {
+                    "content": "**1. Table Title/Caption**\nThe table is titled \"Clinical manifestations of KPTN gene variation reported in the literature.\" **2. Table Purpose**\nThis table provides a comparative overview of clinical features and associated *KPTN* gene variants across different studies, including the current report, thereby detailing the phenotypic spectrum of *KPTN* gene variation in affected individuals. It presents data from four distinct reports to illustrate the consistency and variability of symptoms linked to this genetic condition. **3. Table Structure**\nThe table is structured with the first column listing various phenotypes or clinical characteristics. The subsequent four columns each represent data from a specific study: \"Baple et al., 2014,\" \"Pajusalu et al., 2015,\" \"Thiffault et al., 2018,\" and the \"Current report.\" For each study, information is provided on the number of subjects, their gender, and the specific *KPTN* gene variants identified.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.5565326809883118
+                }
+            ]
+        }
+    ]
+}

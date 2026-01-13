@@ -1,0 +1,66 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "model": "tencent/Youtu-Embedding",
+    "results": [
+        {
+            "content": "Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5). Epilepsy was noted in two of the five novel patients (Patient 1 and 2, both with GTCS) and in 33% of literature cases, with seizure onset ranging from infancy to early childhood. While Patient 3's MRI was normal, other novel patients and 50% of literature cases showed various brain abnormalities, highlighting a spectrum of neurological involvement. **6. Context:**\nThe table includes a footnote denoted by 'a', which refers to literature sources (1-5), indicating that the summarized data from previously reported patients is derived from these references.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.9747048616409302
+        },
+        {
+            "content": "Patient 2's MRI indicated a mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal, while MRI findings were not documented for Patient 4 and Patient 5. In the literature, 50% of patients presented with different brain abnormalities. **5. Key Findings:**\nA significant and consistent finding across all five novel patients and 100% of previously reported cases in the literature is the presence of developmental delay or intellectual disability. Macrocephaly at the last evaluation was universally reported in 100% of literature cases. Dysmorphic facial features, particularly frontal bossing (present in Patient 1, Patient 2, and 100% of literature cases) and prominent chin (present in Patient 3 and 73% of literature cases), are common manifestations of *KPTN* gene-related syndrome. The homozygous c.599+1G>A mutation is frequently observed among the novel patients (Patients 2, 3, 4, 5).",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.9091535210609436
+        },
+        {
+            "content": "Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5). Our data with the lack of macrocephaly in one patient indicate that macrocephaly does not occur in all patients with this syndrome. Epilepsy has been reported to occur in one-third of affected individuals, varying with respect to seizure types and severity (5). GTCSs are the most frequently described seizure type, starting between 3 months and 7 years of age (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.7174372673034668
+        },
+        {
+            "content": "**1. Table Title/Caption:**\nThe table is titled \"TABLE 1 Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\" **2. Table Purpose:**\nThis table presents a comprehensive comparative analysis of demographic information, anthropometric measurements, and neurodevelopmental phenotypes, including epilepsy characteristics, for five newly identified patients with *KPTN* gene-related syndrome. It also aggregates and compares these findings with data from 15 previously reported patients in existing literature to provide broader context and identify common patterns. **3. Table Structure:**\nThe table is organized into columns representing individual patients (Patient 1 through Patient 5) and a summary column for \"Data in literature\" comprising 15 previously reported cases. The rows are categorized into three main sections: general patient information, \"Anthropometric data,\" and \"Neurodevelopmental phenotype and epilepsy.\"",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.7043370008468628
+        },
+        {
+            "content": "**Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30\u201350, while Patient 4 and Patient 5 each had an IQ of 50\u201370. All 100% of the literature cases also showed developmental delay or intellectual disability. In terms of behavioral abnormalities, Patient 1 exhibited repetitive movements, autistic features, and stereotypic movements. Patient 2 displayed stereotypic movements, and Patient 3 had general behavioral abnormalities. Behavioral abnormalities were not documented for Patient 4 and Patient 5. In the literature, 33% of patients had behavioral abnormalities. Epilepsy was present in Patient 1, characterized by generalized tonic-clonic seizures (GTCS), and in Patient 2, also with GTCS. Patient 3, Patient 4, and Patient 5 did not experience epilepsy. Among the literature cases, 33% had epilepsy, with 3 cases presenting with GTCS and 2 cases presenting with absence seizures (AS) or GTCS.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.5852438807487488
+        },
+        {
+            "content": "Structural brain anomalies may be part of the phenotypic spectrum. Various brain anomalies such as ventriculomegaly and non-specific supratentorial leukoencephalopathy have been documented in half of the reported affected individuals, but none has been reported in several individuals frequently. Here, we report novel MRI findings of optic nerve tortuosity and signs of intracranial hypertension in patients 1 and 2 (flattened pituitary gland in patient 1 and mild enlargement of the inner cerebrospinal fluid spaces in patient 2). Intracranial hypertension, in patient 2 confirmed by lumbar puncture and to a mild degree in patient 1, has not previously been reported in association with pathogenic biallelic variants of KPTN. More than half of the reported patients developed behavioral abnormalities such as repetitive speech, stereotypic movements, hyperactivity, and autistic features (1, 5). Patients 1, 2, and 3 of this study presented similar behavioral problems.",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.5817641615867615
+        },
+        {
+            "content": "Patient 4's weight was 30 kg (\u20130.1 SD) and height was 128 cm (1.4 SD). For Patient 5, all anthropometric data (head circumference at birth and last evaluation, weight, and height at last evaluation) were not available. For the 15 literature cases, macrocephaly was reported in 45% at birth and in 100% at the last evaluation; weight and height data were not available. Regarding dysmorphic facial features, Patient 1 and Patient 2 both exhibited frontal bossing. Patient 3 presented with a prominent chin. Patient 4 had no specific features indicated, and data was not available for Patient 5. In the literature data, frontal bossing was present in 100% of cases, and a prominent chin was noted in 73% of cases. **Neurodevelopmental Phenotype and Epilepsy:**\nAll five novel patients presented with developmental delay or intellectual disability. Specifically, Patient 3 had an IQ of 30\u201350, while Patient 4 and Patient 5 each had an IQ of 50\u201370.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.5798723697662354
+        },
+        {
+            "content": "**4. Table Data:**\n\n**Patient Demographics and Genetics:**\nPatient 1 originated from Germany, is male, and was 6 years old at evaluation. His genotype in *KPTN* included two pathogenic duplications: c.597_598dupTA (p.Ser200Ilefs*55) and c.714_731dup (p.Met241_Gln246dup). Patient 2, an Afghani male evaluated at 16 months, had a homozygous c.599+1G>A mutation, classified as pathogenic. Patient 3, a female from Syria, was 13 years old at evaluation and also presented with a homozygous c.599+1G>A pathogenic mutation. Patient 4, a male from Syria, was evaluated at 9 years and carried the same homozygous c.599+1G>A pathogenic mutation. Similarly, Patient 5, a male from Syria, was 6 years old at evaluation and also had a homozygous c.599+1G>A pathogenic mutation. The data from literature, encompassing 15 patients, reported 8 males and 7 females. Specific origins, ages at evaluation, genotypes, and ACMG classifications for the literature cases were not provided.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.5596218109130859
+        },
+        {
+            "content": "(9) by mode of inheritance, and by predicted functional impact using the VarFish platform (10). The pathogenicity of identified variants was evaluated using MutationTaster (http:// www.mutationtaster.org), Polyphen-2 (11), SIFT (12), and by CADD score. The splicing effect was assessed using varSEAK Online (https://varseak.bio/) and the scores of SpliceAI and MMsplice. Furthermore, a comparison with the mutation databases ClinVar (http://www.ncbi.nlm.nih.gov/clinvar/) and the HGMD (HGMD Professional 2021.1) was performed. Candidate variants were classified according to the ACMG guidelines (13). Here, we present the clinical and molecular data of five patients from three unrelated families with three different pathogenic KPTN variants (Table 1). So far, severe developmental delay and primary, or more frequently secondary, macrocephaly (with a range up to + 5.4 SD) have been reported as the consistent features in 14/14 published affected individuals with biallelic pathogenic variants in KPTN (5).",
+            "source": "Horn.pdf",
+            "page": "[7]",
+            "score": 0.5465711355209351
+        },
+        {
+            "content": "Because of hyperactive mTORC1 signaling, patients with pathogenic variants in KPTN might benefit from mTORC inhibitors (5). Detailed data on seizures and antiepileptic treatment of individuals with biallelic pathogenic variants in KPTN have not yet been published. We present the data of 5 novel patients with special emphasis on severe epilepsy and antiepileptic treatment in two of them.",
+            "source": "Horn.pdf",
+            "page": "[2]",
+            "score": 0.5344681739807129
+        }
+    ]
+}

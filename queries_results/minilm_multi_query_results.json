@@ -1,0 +1,165 @@
+{
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "total_queries": 3,
+    "queries": [
+        {
+            "query": "Common features in people suffering from KPTN Syndrome and their percentage",
+            "results": [
+                {
+                    "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.6724703907966614
+                },
+                {
+                    "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.5374161601066589
+                },
+                {
+                    "content": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.5192287564277649
+                },
+                {
+                    "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+                    "source": "Rawlins.pdf",
+                    "page": "[7]",
+                    "score": 0.5
+                },
+                {
+                    "content": "The diagnosis of KPTN -related disorder is established in a proband with suggestive findings and biallelic pathogenic variants in KPTN identified by molecular genetic testing. Treatment of manifestations: Developmental and educational support; standard management for behavioral and psychiatric manifestations; standard treatment with anti-seizure medications by an experienced neurologist; pressure-equalizing tubes and/or tonsillectomy and/or adenoidectomy as needed for recurrent upper respiratory tract infections; standard treatment for ophthalmologic involvement; standard treatment for endocrine manifestations; treatment of skeletal manifestations per orthopedist; social work support and care coordination as needed.",
+                    "source": "Rawlins.pdf",
+                    "page": "[1]",
+                    "score": 0.5
+                },
+                {
+                    "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.48087409138679504
+                },
+                {
+                    "content": "RECEIVED 01 December 2022 ACCEPTED 15 December 2022 PUBLISHED 10 January 2023 Horn S, Danyel M, Erdmann N, Boschann F, Gunnarsson C, Biskup S, Juengling J, Potratz C, Prager C and Kaindl AM (2023) Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy. Front.",
+                    "source": "Horn.pdf",
+                    "page": "[1]",
+                    "score": 0.4604223966598511
+                },
+                {
+                    "content": "KPTN -related disorder is inherited in an autosomal recessive manner. The parents of an affected child are presumed to be heterozygous for a KPTN pathogenic variant.",
+                    "source": "Rawlins.pdf",
+                    "page": "[13]",
+                    "score": 0.4403500556945801
+                }
+            ]
+        },
+        {
+            "query": "List of the most common facial and developmental features exhibited by individuals with KPTN Syndrome with percentages",
+            "results": [
+                {
+                    "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.5457476377487183
+                },
+                {
+                    "content": "KPTN -related disorder should be considered in probands with the following clinical, laboratory, neuroimaging, and family history findings. Mild-to-profound intellectual disability Postnatal and progressive macrocephaly (onset usually within the first year of life) Developmental delay Neurobehavioral/psychiatric manifestations associated with autism spectrum disorder (anxiety, stereotypies, hyperactivity, repetitive speech, impaired social communication) Seizures (generalized tonic-clonic, absence, focal, tonic seizures) Neonatal/childhood hypotonia Recurrent infections (lower respiratory tract infections, otitis media) Characteristic facial features in some individuals (frontal bossing, short downslanted palpebral fissures, hypertelorism, depressed nasal bridge, broad nasal tip, tall, broad chin, thick vermilion of the lower lip; see Figure 1)",
+                    "source": "Rawlins.pdf",
+                    "page": "[2]",
+                    "score": 0.5403754115104675
+                },
+                {
+                    "content": "Regarding dysmorphic facial features, Patient 1 and Patient 2 both exhibited frontal bossing. Patient 3 had a prominent chin, while Patient 4 did not have documented dysmorphic facial features. Data for Patient 5 was not available. From the literature, frontal bossing was present in 100% of patients, and a prominent chin in 73%. **Neurodevelopmental Phenotype and Epilepsy**:\nDevelopmental delay or intellectual disability was observed in all five novel patients, with Patient 3 having an IQ of 30\u201350, and Patients 4 and 5 having an IQ of 50\u201370. This condition was present in 100% of the reported literature cases. Patient 1 displayed repetitive movements, autistic features, and stereotypic movements, while Patient 2 exhibited stereotypic movements. Patient 3 had unspecified behavioral abnormalities. Behavioral abnormalities were not documented for Patients 4 and 5. In the literature, behavioral abnormalities were noted in 33% of cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.5
+                },
+                {
+                    "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.4969918131828308
+                },
+                {
+                    "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.4679890275001526
+                },
+                {
+                    "content": "Patient 2 showed mild enlargement of the inner cerebrospinal fluid spaces. Patient 3's MRI was normal. MRI findings were not documented for Patients 4 and 5. In the literature, different brain abnormalities were observed in 50% of cases. **Key Findings**:\nAll five novel patients presented with pathogenic KPTN gene mutations, with patients 2, 3, 4, and 5 sharing an identical homozygous c.599+1G>A mutation. A consistent key finding across both novel patients and literature data is the 100% prevalence of developmental delay or intellectual disability. Macrocephaly at last evaluation appears to be a highly prevalent feature, observed in 100% of literature cases, and notably severe in Patient 1 (+2.2 SD). Frontal bossing is a common dysmorphic facial feature, present in Patients 1, 2, and all literature cases, while a prominent chin was seen in Patient 3 and 73% of literature cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.45765793323516846
+                },
+                {
+                    "content": "The diagnosis of KPTN -related disorder is established in a proband with suggestive findings and biallelic pathogenic variants in KPTN identified by molecular genetic testing. Treatment of manifestations: Developmental and educational support; standard management for behavioral and psychiatric manifestations; standard treatment with anti-seizure medications by an experienced neurologist; pressure-equalizing tubes and/or tonsillectomy and/or adenoidectomy as needed for recurrent upper respiratory tract infections; standard treatment for ophthalmologic involvement; standard treatment for endocrine manifestations; treatment of skeletal manifestations per orthopedist; social work support and care coordination as needed.",
+                    "source": "Rawlins.pdf",
+                    "page": "[1]",
+                    "score": 0.3666691780090332
+                },
+                {
+                    "content": "Data for other novel patients were not available. At the last evaluation, Patient 1's head circumference was 55 cm (+2.2 SD), and Patient 2's was 48 cm (+0.02 SD). Head circumference data for Patients 3, 4, and 5 at last evaluation were not available. In the literature, macrocephaly was reported in 45% of patients at birth and 100% at last evaluation. Patient 1's weight at last evaluation was 19 kg (-1 SD), Patient 2's was 8.7 kg (-1.7 SD), Patient 3's was 40 kg (-1.1 SD), and Patient 4's was 30 kg (-0.1 SD). Weight data for Patient 5 and literature cases were not available. Patient 1's height at last evaluation was 112.5 cm (-1.2 SD), Patient 2's was 78 cm (-0.8 SD), Patient 3's was 150 cm (-1.3 SD), and Patient 4's was 128 cm (1.4 SD). Height data for Patient 5 and literature cases were not available. Regarding dysmorphic facial features, Patient 1 and Patient 2 both exhibited frontal bossing. Patient 3 had a prominent chin, while Patient 4 did not have documented dysmorphic facial features.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.35697969794273376
+                }
+            ]
+        },
+        {
+            "query": "Uncommon features in people with KPTN Syndrome and their percentage",
+            "results": [
+                {
+                    "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+                    "source": "Horn.pdf",
+                    "page": "[4]",
+                    "score": 0.7422835826873779
+                },
+                {
+                    "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+                    "source": "Lucena.pdf",
+                    "page": "[2]",
+                    "score": 0.7054362297058105
+                },
+                {
+                    "content": "**Table Title/Caption:** Table 2, continued from a previous page, detailing features of KPTN-Related Disorder. **Table Purpose:** This table presents a summary of various clinical features observed in individuals with KPTN-Related Disorder, indicating the prevalence of each feature as a percentage of affected persons and providing descriptive comments for clarification. **Table Structure:** The table is organized into three columns. The first column, \"Feature,\" lists specific clinical manifestations or characteristics associated with KPTN-Related Disorder. The second column, \"% of Persons w/Feature,\" quantifies the proportion of affected individuals exhibiting that particular feature. The third column, \"Comment,\" provides additional details, descriptions, or specific examples related to the listed feature. **Table Data:**\nFor individuals diagnosed with KPTN-Related Disorder, seizures are observed in 44% of affected persons.",
+                    "source": "Rawlins.pdf",
+                    "page": "[5]",
+                    "score": 0.6109455823898315
+                },
+                {
+                    "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.6041287779808044
+                },
+                {
+                    "content": "Footnote 6 provides the important context that, to date, no large intragenic deletions or duplications have been reported in individuals with KPTN-related disorder. ---\n\n**Table 2. KPTN-Related Disorder: Frequency of Select Features**\n\n**Table Purpose**: This table enumerates the frequency of specific clinical features observed in individuals diagnosed with KPTN-related disorder and provides additional descriptive comments for certain characteristics. **Table Structure**: The table comprises three columns: \"Feature,\" which lists various clinical characteristics associated with KPTN-related disorder; \"% of Persons w/Feature,\" which indicates the percentage of affected individuals who exhibit that particular feature; and \"Comment,\" which offers brief descriptive details or contextual information for each feature. **Table Data**: Among individuals with KPTN-related disorder, intellectual disability is present in 100% of persons, and is described as ranging from mild to profound.",
+                    "source": "Rawlins.pdf",
+                    "page": "[4]",
+                    "score": 0.5950115323066711
+                },
+                {
+                    "content": "RECEIVED 01 December 2022 ACCEPTED 15 December 2022 PUBLISHED 10 January 2023 Horn S, Danyel M, Erdmann N, Boschann F, Gunnarsson C, Biskup S, Juengling J, Potratz C, Prager C and Kaindl AM (2023) Case report: KPTN gene-related syndrome associated with a spectrum of neurodevelopmental anomalies including severe epilepsy. Front.",
+                    "source": "Horn.pdf",
+                    "page": "[1]",
+                    "score": 0.559529721736908
+                },
+                {
+                    "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+                    "source": "Rawlins.pdf",
+                    "page": "[8]",
+                    "score": 0.5449191927909851
+                },
+                {
+                    "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+                    "source": "Rawlins.pdf",
+                    "page": "[7]",
+                    "score": 0.5
+                }
+            ]
+        }
+    ]
+}

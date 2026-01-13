@@ -1,0 +1,204 @@
+{
+    "google_maps_widget_context_token": null,
+    "grounding_chunks": [
+        {
+            "maps": null,
+            "retrieved_context": {
+                "document_name": null,
+                "rag_chunk": null,
+                "text": "Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients.\n\n\n\"Patients\n\",\"Patient 1\n\",\"Patient 2\n\",\"Patient 3\n\",\"Patient 4\n\",\"Patient 5\n\",\"Data in\n literature\n $n=15$\n\"\r\n,,,,,\r\n\"Origin\n\",\"Germany\n\",\"Afghani\n\",\"Syria\n\",\"Syria\n\",\"Syria\n\",\r\n\"Sex\n\",\"Male\n\",\"Male\n\",\"Female\n\",\"Male\n\",\"Male\n\",\"8 male/7 female\n\"\r\n\"Age at evaluation\n\",\"6 years\n\",\"16 months\n\",\"13 years\n\",\"9 years\n\",\"6 years\n\",\r\n\"Genotype in KP\u03a1\u03a4\u039d\n\",\"c.597_598dupTA;\n p.Ser2001lefs 55\n c.714 731dup;\n p.Met241_Gln246dup\n\",\"homozygous\n c.599+1G>A\n\",\"homozygous\n 599+1G>A\n\",\"homozygous\n $c.599+1G>A$\n\",\"homozygous\n $c.599+1G>A$\n\",\r\n\"ACMG\n classification.\n\",\"Both pathogenic\n\",\"Pathogenic\n\",\"Pathogenic\n\",\"Pathogenic\n\",\"Pathogenic\n\",\r\n\"Anthropometric data\n\",,,,,,\r\n\"Head circumference\n (SD) at birth\n\",\"34.5 cm (+0.1 SD)\n (40th week)\n\",\"31 cm (-0.2 SD)\n (33rd week)\n\",\"NA\n\",\"NA\n\",\"NA\n\",\"Macrocephaly 45%\n\"\r\n\"Head circumference\n at last evaluation\n (SD)\n\",\"55 cm (+2.2 SD)\n\",\"48 cm (+0.02 SD)\n\",\"NA\n\",\"NA\n\",\"NA\n\",\"Macrocephaly 100%\n\"\r\n\"Weight at last\n evaluation (SD)\n\",\"$19~kg(-1~SD)$\n\",\"8.7 kg (-1.7 SD)\n\",\"$40~kg(-1.1~SD)$\n\",\"30 kg (-0.1 SD)\n\",\"NA\n\",\"NA\n\"\r\n\"Height at last\n evaluation (SD)\n\",\"112.5 cm (-1.2 SD)\n\",\"78 cm (-0.8 SD)\n\",\"150 cm (-1.3 SD)\n\",\"128 cm (1.4 SD)\n\",\"NA\n\",\"NA\n\"\r\n\"Dysmorphic facial\n features\n\",\"Frontal bossing\n\",\"Frontal bossing\n\",\"Prominent chin\n\",,\"NA\n\",\"Frontal bossing\n 100%, prominent\n chin 73%\n\"\r\n\"Neurodevelopmental phenotype and\n\",,\"epilepsy\n\",,,,\r\n\"Developmental\n delay/Intellectual\n disability\n\n\n+\n\",,,\"+(IQ 30-50)\n\",\"+I(IQ 50-70)\n\",\"+(IQ 50-70)\n\",\"100%\n\"\r\n\"Behavioral\n\n\nabnormalities\n\",\"Repetitive\n movements, autistic\n features, stereotypic\n movements\n\",\"Stereotypic\n movements\n\",\"Behavioral\n abnormalities\n\",\"ND\n\",\"ND\n\",\"33%\n\"\r\n\"Epilepsy\n\",\"+(GTCS)\n\",\"+(GTCS)\n\",,,,\"33% (GTCS=3,\n ASGTCS /$n=2$,\n\"\r\n\"Onset of seizures in\n years\n\",\"5 years\n\",\"13 months\n\",,,,\"3 months-7 years\n\"\r\n\"EEG findings\n\n\nMRI findings\n\",\"Epileptic\n discharges, focal\n slow activity frontal\n Optical nerve\n tortuosity, flat\n pituitary gland\n\",\"Front-otemporal\n sharp-wave\n\n\ncomplexes on the\n left side\n Mild enlargement\n of the inner\n cerebrospinal fluid\n spaces\n\",\"ND\n\n\nNormal\n\",\"ND\n\n\nND\n\",\"ND\n\n\nND\n\",\"NA\n\n\nDifferent brain\n\n\nabnormalities 50%\n\"\n\nND, not documented; NA, not available; CTCSs, generalized tonic-clonic seizures; Ass, absence seizures; (1-5)..\n\nhemisphere and a rhythmic 4-5 Hz activity (Figure 2B).\n ASM with levetiracetam $(40~mg/kg/day)$ was initiated but\n due to aggressive behavior, it had to be replaced",
+                "title": "Horn.pdf",
+                "uri": null
+            },
+            "web": null
+        },
+        {
+            "maps": null,
+            "retrieved_context": {
+                "document_name": null,
+                "rag_chunk": null,
+                "text": "frameshift variant p. (Ser200Ilefs) was reported\n in two unrelated families (4, 5). All these affected individuals\n presented with core manifestations, developmental delay, and\n macrocephaly (4, 5),\n\nThe KPTN gene encodes for kaptin, which plays a\n crucial role in the neuromorphogenesis and development of\n the brain. Kaptin was shown to be expressed in neuronal\n cells and was found to localize to F-actin-rich structures\n (1). Immunofluorescence analyses in primary neuronal cells\n demonstrated endogenous and GFP-tagged kaptin to be\n associated with dynamic actin cytoskeletal structures (1). The\n loss of kaptin function leads to an impairment of the neuronal\n actin cytoskeleton, dendritic arborization, and spine formation\n (1). Furthermore, kaptin has been proven as a negative upstream\n regulator of the mTORC1 signaling pathway as a part of\n the KICSTOR protein complex (6). mTORC1 is an important\n regulator of cell growth and is dysregulated in different human.\n diseases, including cancer and epilepsy phenotypes. Because\n of hyperactive mTORC1 signaling, patients with pathogenic\n variants in KPTN might benefit from mTORC inhibitors (5).\n\nDetailed data on seizures and antiepileptic treatment of\n individuals with biallelic pathogenic variants in KPTN have not\n yet been published. We present the data of 5 novel patients with\n special emphasis on severe epilepsy and antiepileptic treatment\n in",
+                "title": "Horn.pdf",
+                "uri": null
+            },
+            "web": null
+        },
+        {
+            "maps": null,
+            "retrieved_context": {
+                "document_name": null,
+                "rag_chunk": null,
+                "text": "hypertension in patients 1 and 2 (flattened.\n pituitary gland in patient 1 and mild enlargement of the\n inner cerebrospinal fluid spaces in patient 2). Intracranial\n hypertension, in patient 2 confirmed by lumbar puncture and\n to a mild degree in patient 1, has not previously been reported in\n association with pathogenic biallelic variants of KPTN.\n\nMore than half of the reported patients developed behavioral\n abnormalities such as repetitive speech, stereotypic movements,\n hyperactivity, and autistic features (1, 5). Patients 1, 2, and 3\n of this study presented similar behavioral problems. Frontal\n bossing and prominent chin are the most frequently described\n facial anomalies in this condition, also present in patients 1\n and 2 (frontal bossing) and patient 3 (prominent chin) reported\n here (5).\n\nThe heterozygous frameshift variant p.(Ser200llefs*55)\n found in patient 1 has been reported in two affected\n families of different populations (4, 5). The second variant,\n p.(Met241_Gln246dup), detected in patient 1 has been described\n in a compound heterozygous state in two other affected families\n and is shown to have a profound effect on kaptin function (1,3).\n This in-frame duplication in compound heterozygous status is\n associated with a wide range of severity from status epilepticus\n to absence seizures (1, 3). Comparing the data on all",
+                "title": "Horn.pdf",
+                "uri": null
+            },
+            "web": null
+        },
+        {
+            "maps": null,
+            "retrieved_context": {
+                "document_name": null,
+                "rag_chunk": null,
+                "text": "intracranial hypertension such as vomiting\n or headaches. The results of chromosome analysis and array\n comparative genetic hybridization (CGH) were normal. WES\n detected compound heterozygous pathogenic variants in the\n KPTN gene (c.597_598dupTA https://www.ncbi.nlm.nih.gov/\n clinvar/variation/279826; p.Ser2001lefs 55 and c.714_731dup\n https://www.ncbi.nlm.nih.gov/clinvar/variation/279826; and\n p.Met241_Gln246dup) (Figure 3). The American College of\n Medical Genetics and Genomics (ACMG) classification of both\n variants is found in the Supplementary material.\n\nThey co-segregated with the phenotype in the family.\n Patient 2 was a 1.5-year-old male child of consanguineous,\n healthy parents of Afghani origin. A maternal uncle had died\n\n2 days postnatally of an unknown cause and a paternal uncle\n had febrile seizures. The pregnancy was complicated by pre-\n eclampsia and gestosis resulting in premature birth by Cesarean\n section at $33+1$ weeks of gestation. His anthropometric data\n were still normal at birth, with a weight of 1,605 g (-1.2 SD),\n a length of 43 cm (-0.6 SD), and an OFC of 31 cm (-0.2\n SD). Facial dysmorphic features comprised of the prominent\n forehead, synophrys, a low frontal hairline, and dysplastic ears\n but no macrocephaly (Figure 1B, Table 1). The boy had an\n accessory mamilla and seven caf\u00e9-au-lait-spots. The patient\n was treated in the neonatology ICU until the 18th day of\n life due to",
+                "title": "Horn.pdf",
+                "uri": null
+            },
+            "web": null
+        },
+        {
+            "maps": null,
+            "retrieved_context": {
+                "document_name": null,
+                "rag_chunk": null,
+                "text": "nasal\n bridge, a short philtrum, a large mouth, and a prominent\n chin. MRI of the brain showed no abnormalities. WES revealed\n the homozygous variant c.599+1G>Ain KPTN (Figure 3). In\n addition, the homozygous pathogenic variant c.35delG in GJB2,\n associated with hearing loss, was identified. Neither MRI nor\n EEG results have been available for evaluation.\n\nPatients 4 and 5 were her affected brothers. Both were born\n at 40 weeks of gestation with normal measurements and have\n no medical problems in the neonatal period. Patient 4 was a 9-\n year-old boy with psychomotor delay and moderate intellectual\n disability with an IQ of 50-70 (Table 1). The expressive language\n was particularly affected. Physical examination at the age of\n 9 years showed a height of 128 cm (-1.4 SD), a weight of\n $30~kg(-0.1~SD)$ and no facial abnormalities. Hearing tests gave\n normal results. Patient 5 was a 6-year-old boy who also showed\n moderate intellectual disability, especially with difficulties in\n expressive language. A hearing problem was excluded in this\n patient. A genetic investigation confirmed the presence of the\n homozygous variant c.599+1G>A in KPTN in both brothers\n (Figure 3). Neither of them had seizures. The parents were both\n heterozygous carriers of the pathogenic KPTN c.599+1G>A\n variant and the GJB2",
+                "title": "Horn.pdf",
+                "uri": null
+            },
+            "web": null
+        }
+    ],
+    "grounding_supports": [
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0,
+                1
+            ],
+            "segment": {
+                "end_index": 132,
+                "part_index": null,
+                "start_index": null,
+                "text": "KPTN Syndrome is characterized by a range of common features, including developmental delay/intellectual disability and macrocephaly"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0,
+                2
+            ],
+            "segment": {
+                "end_index": 309,
+                "part_index": null,
+                "start_index": 135,
+                "text": "Other frequently observed features are:\n*   **Facial dysmorphic features**: Frontal bossing is present in 100% of reported cases, and a prominent chin is seen in 73% of cases"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                3
+            ],
+            "segment": {
+                "end_index": 428,
+                "part_index": null,
+                "start_index": 311,
+                "text": "Other features like a prominent forehead, synophrys, a low frontal hairline, and dysplastic ears have also been noted"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0
+            ],
+            "segment": {
+                "end_index": 535,
+                "part_index": null,
+                "start_index": 430,
+                "text": "*   **Neurodevelopmental phenotype**: All patients exhibit developmental delay or intellectual disability"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0
+            ],
+            "segment": {
+                "end_index": 581,
+                "part_index": null,
+                "start_index": 537,
+                "text": "The IQ ranges from 30-70 in documented cases"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0,
+                2
+            ],
+            "segment": {
+                "end_index": 778,
+                "part_index": null,
+                "start_index": 583,
+                "text": "*   **Behavioral abnormalities**: More than half of the reported patients (33%) develop behavioral issues such as repetitive movements, stereotypic movements, hyperactivity, and autistic features"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0,
+                2
+            ],
+            "segment": {
+                "end_index": 1000,
+                "part_index": null,
+                "start_index": 915,
+                "text": "Both generalized tonic-clonic seizures (GTCS) and absence seizures have been observed"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0
+            ],
+            "segment": {
+                "end_index": 1071,
+                "part_index": null,
+                "start_index": 1002,
+                "text": "EEG findings can include epileptic discharges and focal slow activity"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                0,
+                2
+            ],
+            "segment": {
+                "end_index": 1286,
+                "part_index": null,
+                "start_index": 1073,
+                "text": "*   **Brain abnormalities**: Various brain abnormalities are present in 50% of cases, which can include optical nerve tortuosity, a flat pituitary gland, or mild enlargement of the inner cerebrospinal fluid spaces"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                2
+            ],
+            "segment": {
+                "end_index": 1387,
+                "part_index": null,
+                "start_index": 1289,
+                "text": "Less commonly reported, but noted in some patients, are intracranial hypertension and hypertension"
+            }
+        },
+        {
+            "confidence_scores": null,
+            "grounding_chunk_indices": [
+                1
+            ],
+            "segment": {
+                "end_index": 1754,
+                "part_index": null,
+                "start_index": 1597,
+                "text": "Kaptin also acts as a negative regulator of the mTORC1 signaling pathway, and its dysregulation may suggest that patients could benefit from mTORC inhibitors"
+            }
+        }
+    ],
+    "retrieval_metadata": null,
+    "retrieval_queries": null,
+    "search_entry_point": null,
+    "source_flagging_uris": null,
+    "web_search_queries": null
+}

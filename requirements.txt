@@ -1,2 +1,10 @@
 google-genai
 python-dotenv
+litellm==1.80.11
+torch
+sentence-transformers
+weaviate-client
+einops
+transformers==4.53.3
+protobuf<5
+grpcio<1.63

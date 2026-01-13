@@ -1,0 +1,66 @@
+{
+    "query": "What are the common features associated with people suffering from KPTN Syndrome?",
+    "model": "Alibaba-NLP/gte-multilingual-base",
+    "results": [
+        {
+            "content": "5. **Distinguishing from KPTN-related disorder**: This column enumerates the unique clinical features of the listed disorder that are not typically present in KPTN-related disorders, thus aiding in differentiating between them. **Table Data**:\n\nThe table begins with disorders associated with the MTOR gene. Smith-Kingsmore syndrome (OMIM 616638), which is inherited in an Autosomal Dominant (AD) manner, exhibits several overlapping features with KPTN-related disorders. These include facial features such as frontal bossing, hypertelorism, and downslanted palpebral fissures, along with hypotonia, seizures, and behavioral issues. A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.7347333431243896
+        },
+        {
+            "content": "Recurrent infections are present in 27% of persons with the disorder. Strabismus or nystagmus affects 12% of individuals, while ketotic hypoglycemia is reported in 8% of the affected population. **Key Findings:**\nThe most prevalent feature listed in the table for KPTN-Related Disorder is \"Characteristic craniofacial features,\" affecting a substantial 84% of individuals. Seizures are also a very common manifestation, present in 44% of persons. Recurrent infections affect a notable portion of the population at 27%. Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics.",
+            "source": "Rawlins.pdf",
+            "page": "[5]",
+            "score": 0.6950341463088989
+        },
+        {
+            "content": "**Table Title/Caption**:\nTABLE 1: Comparison of clinical manifestations of KPTN gene-related syndrome in five novel patients with previously reported patients. **Table Purpose**:\nThis table provides a detailed comparison of demographic, genetic, anthropometric, neurodevelopmental, and epilepsy-related clinical features for five newly identified patients with KPTN gene-related syndrome, alongside aggregated data from fifteen previously reported patients found in the literature. **Table Structure**:\nThe table is structured with the first column listing various clinical characteristics and findings. The subsequent six columns represent individual data sets: Patient 1, Patient 2, Patient 3, Patient 4, Patient 5, and a summary of \"Data in literature\" for fifteen previously reported cases.",
+            "source": "Horn.pdf",
+            "page": "[4]",
+            "score": 0.5972414016723633
+        },
+        {
+            "content": "KPTN -related disorder is characterized by mild-to-profound intellectual disability, developmental delay, neurobehavioral/psychiatric manifestations (including anxiety and findings associated with autism spectrum disorder such as stereotypies, hyperactivity, repetitive speech, and impaired social communication), postnatal progressive macrocephaly, and seizures. To date, 54 individuals from 32 families have been identified with biallelic pathogenic variants in KPTN [Baple et al 2014, Pajusalu et al 2015, Lucena et al 2020, Pacio Miguez et al 2020, Thiffault et al 2020, Horn et al 2023, Levitin et al 2023, Liaqat et al 2023]. The following description of the phenotypic features associated with this condition is based on these reports. Baple et al [2014]; Pajusalu et al [2015]; Lucena et al [2020]; Pacio Miguez et al [2020]; Thiffault et al [2020]; Horn et al [2023]; Levitin et al [2023]; Liaqat et al [2023]; E Baple, unpublished data",
+            "source": "Rawlins.pdf",
+            "page": "[4, 5]",
+            "score": 0.5589975714683533
+        },
+        {
+            "content": "**1. Table Title/Caption**\nThe table is titled \"Clinical manifestations of KPTN gene variation reported in the literature.\" **2. Table Purpose**\nThis table provides a comparative overview of clinical features and associated *KPTN* gene variants across different studies, including the current report, thereby detailing the phenotypic spectrum of *KPTN* gene variation in affected individuals. It presents data from four distinct reports to illustrate the consistency and variability of symptoms linked to this genetic condition. **3. Table Structure**\nThe table is structured with the first column listing various phenotypes or clinical characteristics. The subsequent four columns each represent data from a specific study: \"Baple et al., 2014,\" \"Pajusalu et al., 2015,\" \"Thiffault et al., 2018,\" and the \"Current report.\" For each study, information is provided on the number of subjects, their gender, and the specific *KPTN* gene variants identified.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.5369436144828796
+        },
+        {
+            "content": "Less common features include strabismus/nystagmus at 12% and ketotic hypoglycemia at 8%. The comments provide critical detail, explaining the specific types of seizures (generalized tonic-clonic, absence, focal/complex partial) and detailing the various craniofacial anomalies, such as frontal bossing, short downslanted palpebral fissures, hypertelorism, and specific nasal, chin, and lip characteristics. **Context:**\nThe data presented in this table is compiled from several research sources, including Baple et al [2014], Pajusalu et al [2015], Lucena et al [2020], Pacio Miguez et al [2020], Thiffault et al [2020], Horn et al [2023], Levitin et al [2023], Liaqat et al [2023], and unpublished data from E. Baple. This indicates a multi-source synthesis of clinical observations for KPTN-Related Disorder.",
+            "source": "Rawlins.pdf",
+            "page": "[5]",
+            "score": 0.5100470781326294
+        },
+        {
+            "content": "A key distinguishing feature for Smith-Kingsmore syndrome is the presence of skin pigmentary abnormalities. Next, Sotos syndrome, linked to the NSD1 gene and also inherited in an Autosomal Dominant (AD) fashion, shares multiple overlapping characteristics with KPTN-related disorders. These encompass facial features like frontal bossing, a pointed chin, and downslanted palpebral fissures, as well as hypotonia, seizures, ocular issues (including strabismus and nystagmus), behavioral issues, and ventriculomegaly. Features that help distinguish Sotos syndrome from KPTN-related disorders include generalized overgrowth and additional syndromic features such as congenital heart disease, renal anomalies, and scoliosis.",
+            "source": "Rawlins.pdf",
+            "page": "[8]",
+            "score": 0.5001611709594727
+        },
+        {
+            "content": "Fragile X syndrome shares several features with KPTN-related disorder, including Autism Spectrum Disorder (ASD), behavioral issues like hyperactivity, frontal bossing, a prominent jaw, and seizures. These are in addition to macrocephaly, intellectual disability, and developmental delay. Distinguishing features of Fragile X syndrome from KPTN-related disorder include macroorchidism and mitral valve prolapse. **Key Findings**:\nBoth CHD8-related neurodevelopmental disorder and Fragile X syndrome share common neurological features with KPTN-related disorder, specifically Autism Spectrum Disorder (ASD) and seizures. However, their modes of inheritance differ, with CHD8-related disorder being autosomal dominant and Fragile X syndrome being X-linked. Distinctive characteristics aid in their differential diagnosis: CHD8-related disorder presents with specific gastrointestinal issues and developmental regression, while Fragile X syndrome is uniquely associated with macroorchidism and mitral valve prolapse.",
+            "source": "Rawlins.pdf",
+            "page": "[7]",
+            "score": 0.5
+        },
+        {
+            "content": "Lettie E Rawlins, BSc, MBChB, MRCP, PhD, 1,2  Peter B Crino, BA, MD, PhD, 3  Philip H Iffland, BA, MA, PhD, 3  Andrew H Crosby, BSc, PhD, 1  and Emma L Baple, BSc, MBBS, MRCPCH, PhD 1,2 KPTN -related disorder is characterized by mild-to-profound intellectual disability, global developmental delay, neurobehavioral/psychiatric manifestations (anxiety, stereotypies, hyperactivity, repetitive speech, and impaired social communication), hypotonia, postnatal and progressive macrocephaly, and seizures. Generalized megalencephaly is often present on brain imaging.",
+            "source": "Rawlins.pdf",
+            "page": "[1]",
+            "score": 0.5
+        },
+        {
+            "content": "Key Findings**\nA core set of clinical manifestations, including macrocephaly, frontal bossing, stomatognathic alteration, delayed psychomotor development, intellectual disability (mild to severe), and seizures, appears to be consistently associated with *KPTN* gene variations across multiple independent studies. While some features like hypotonia, anxiety, and stereotyped behaviors are also frequently observed, there is notable variability in other phenotypes, such as hooded eyelids, broad nasal tip, fifth finger clinodactyly, self-aggression, precocious puberty, and hypoglycemia, which were often unique to one or two reports. This suggests a broad phenotypic spectrum for *KPTN* gene variations, with some core features and other more variable manifestations. Different *KPTN* variants are associated with these diverse phenotypic presentations. **6.",
+            "source": "Lucena.pdf",
+            "page": "[2]",
+            "score": 0.4862992465496063
+        }
+    ]
+}
